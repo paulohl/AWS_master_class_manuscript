@@ -23,6 +23,7 @@ Section I
 
 
 #[Mastering AWS]
+
 _Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastructure to serverless applications.__
 
 
@@ -30,6 +31,7 @@ _Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastru
 
 
 ##[Cloud adoption using the AWS Cloud computing ecosystem]
+
 _AWS provides Cloud-based tools (offerings, products) enabling businesses in all segments and sizes to seamlessly migrate or build their business IT operations in the Cloud. An exploratory journey throughout the AWS Cloud Computing ecosystem to understand the fundaments for Cloud adoption alternatives._
 
 
@@ -37,6 +39,7 @@ _AWS provides Cloud-based tools (offerings, products) enabling businesses in all
 
 
 ##[Explore AWS Cloud ecosystem]
+
 _This book will help you in understanding the AWS Cloud and how to leverage its services and components to build your Cloud-based environment._
 
 
@@ -44,6 +47,7 @@ _This book will help you in understanding the AWS Cloud and how to leverage its 
 
 
 ##[Students and Professionals]
+
 _This book was written for the technical Cloud computing aficionado. Systems Engineers, Solutions Engineers, Solution Architects, Systems Architects, Software Engineers, and related professionals in the Information Technology industry, and for students of the same industry, whose target career is planned to include Cloud computing knowledge._
 
 
