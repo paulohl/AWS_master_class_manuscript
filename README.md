@@ -1,6 +1,8 @@
 # AWS Master Class
 
 www.bpbonline.com
+
+
 | Section Title | Chapter No | Chapter Title                     | Page Count | Chapter Delivery Date |
 |---------------|------------|-----------------------------------|:----------:|:----------------------|
 | Intro         | 1.         | Intro: AWS architecture           | 22         | 15-sep-2023           | 
