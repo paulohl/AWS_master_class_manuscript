@@ -1,30 +1,43 @@
 
 AWS Cloud Computing Masterclass
+
+
 Paulo H. Leocadio 
+
+
+
 
 ![alt text](https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/d/AmazonStores/A21TJRUUN4KGV/2b7921acad14b8736fca5d9c659f9754.w400.h400.png "BPB Publishing")
 
 
-Website 
-Twitter 
-Facebook
-Instagram
-Medium
-YouTube
-LinkedIn
-GitHub
-Pinterest
- 
+
+======
 Outline Template
+================
+
+
 Section I
+----------------
+
+
+
 Book Title – [Mastering AWS]
-Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastructure to serverless applications.
+_Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastructure to serverless applications.__
+
+
+
 Subtitle - [Cloud adoption using the AWS Cloud computing ecosystem]
-AWS provides Cloud-based tools (offerings, products) enabling businesses in all segments and sizes to seamlessly migrate or build their business IT operations in the Cloud. An exploratory journey throughout the AWS Cloud Computing ecosystem to understand the fundaments for Cloud adoption alternatives.
+_AWS provides Cloud-based tools (offerings, products) enabling businesses in all segments and sizes to seamlessly migrate or build their business IT operations in the Cloud. An exploratory journey throughout the AWS Cloud Computing ecosystem to understand the fundaments for Cloud adoption alternatives._
+
+
+
 Tagline - [Explore AWS Cloud ecosystem]
-This book will help you in understanding the AWS Cloud and how to leverage its services and components to build your Cloud-based environment.
+_This book will help you in understanding the AWS Cloud and how to leverage its services and components to build your Cloud-based environment._
+
+
+
 Who is this book for- [Students and Professionals]
-This book was written for the technical Cloud computing aficionado. Systems Engineers, Solutions Engineers, Solution Architects, Systems Architects, Software Engineers, and related professionals in the Information Technology industry, and for students of the same industry, whose target career is planned to include Cloud computing knowledge.
+_This book was written for the technical Cloud computing aficionado. Systems Engineers, Solutions Engineers, Solution Architects, Systems Architects, Software Engineers, and related professionals in the Information Technology industry, and for students of the same industry, whose target career is planned to include Cloud computing knowledge._
 
 Book Description 
 AWS is one of the major global Cloud Services Providers, competing directly with Google, IBM, Microsoft, and Oracle, and with large providers of specialized Cloud services. When building a Cloud-based environment to replace former on-premises operations, there is a wide variety of component services and models to choose from development framework, application platform, data services, middleware, web services, and infrastructure, among many others. AWS provides the full stack to enable businesses to adopt the Cloud, including different components with the same purpose, while depending on connectors and interfaces. This book will explore it all, providing a complete reference to adopting the Cloud with AWS.
