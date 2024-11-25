@@ -19,42 +19,73 @@ Section I
 ----------------
 
 
-Book Title – [Mastering AWS]
+**Book Title –** 
+
+
+#[Mastering AWS]
 _Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastructure to serverless applications.__
 
 
-Subtitle - [Cloud adoption using the AWS Cloud computing ecosystem]
+**Subtitle -**
+
+
+##[Cloud adoption using the AWS Cloud computing ecosystem]
 _AWS provides Cloud-based tools (offerings, products) enabling businesses in all segments and sizes to seamlessly migrate or build their business IT operations in the Cloud. An exploratory journey throughout the AWS Cloud Computing ecosystem to understand the fundaments for Cloud adoption alternatives._
 
 
-Tagline - [Explore AWS Cloud ecosystem]
+**Tagline -**
+
+
+##[Explore AWS Cloud ecosystem]
 _This book will help you in understanding the AWS Cloud and how to leverage its services and components to build your Cloud-based environment._
 
 
-Who is this book for- [Students and Professionals]
+**Who is this book for -** 
+
+
+##[Students and Professionals]
 _This book was written for the technical Cloud computing aficionado. Systems Engineers, Solutions Engineers, Solution Architects, Systems Architects, Software Engineers, and related professionals in the Information Technology industry, and for students of the same industry, whose target career is planned to include Cloud computing knowledge._
 
 
-Book Description 
-AWS is one of the major global Cloud Services Providers, competing directly with Google, IBM, Microsoft, and Oracle, and with large providers of specialized Cloud services. When building a Cloud-based environment to replace former on-premises operations, there is a wide variety of component services and models to choose from development framework, application platform, data services, middleware, web services, and infrastructure, among many others. AWS provides the full stack to enable businesses to adopt the Cloud, including different components with the same purpose, while depending on connectors and interfaces. This book will explore it all, providing a complete reference to adopting the Cloud with AWS.
+**Book Description**
 
-The book is presented as an exploratory journey, navigating through the diverse AWS ecosystem, while putting the pieces together to implement the four main Cloud models.
 
-After reading this book, the student or professional will be able to participate in Cloud adoption projects, with a solid reference source to be an active participant in the project team.
-Key Features 
-By reading this book you will learn about the AWS Cloud and its components, and where to use them in a Cloud-related project.
+_AWS is one of the major global Cloud Services Providers, competing directly with Google, IBM, Microsoft, and Oracle, and with large providers of specialized Cloud services. When building a Cloud-based environment to replace former on-premises operations, there is a wide variety of component services and models to choose from development framework, application platform, data services, middleware, web services, and infrastructure, among many others. AWS provides the full stack to enable businesses to adopt the Cloud, including different components with the same purpose, while depending on connectors and interfaces. This book will explore it all, providing a complete reference to adopting the Cloud with AWS._
+
+_The book is presented as an exploratory journey, navigating through the diverse AWS ecosystem, while putting the pieces together to implement the four main Cloud models._
+
+_After reading this book, the student or professional will be able to participate in Cloud adoption projects, with a solid reference source to be an active participant in the project team._
+
+
+**Key Features -**
+
+
+_By reading this book you will learn about the AWS Cloud and its components, and where to use them in a Cloud-related project.
 To participate in a Cloud-related project, it is important to know the objectives of the system to be built, as much as to know the functionality, purpose, pros, and cons when using one component versus the other.
-The book was written with a technical perspective, including logical design, diagrams, and architecture representations of the AWS components. It is a step-by-step exploration until the reader understands those components and what the alternatives to put them together are. 
-Competitor Analysis
+The book was written with a technical perspective, including logical design, diagrams, and architecture representations of the AWS components. It is a step-by-step exploration until the reader understands those components and what the alternatives to put them together are._
+
+
+**Competitor Analysis -**
+
+
 Please list the top two competing books
 [Insert Text Here]
 [Insert Text Here]
 TBD – while I browsed through the many books on the topic, I learned there are more that might be relevant and/or important to compare. However, none so far have an end-to-end AWS overview and use cases like we plan to do. I will have these titles the sooner I can (also, if the team has recommendations, they are welcome).
- 
-Tech List – [AWS Cloud Products]
-This book will reference to all AWS Cloud Product Categories: Analytics; Application Integration; Blockchain; Business Applications; Cloud Financial Management; Compute; Containers; Database; Developer Tools; End User Computing; Front-End Web & Mobile. 
+
+
+**Tech List –** 
+##[AWS Cloud Products]
+
+
+_This book will reference to all AWS Cloud Product Categories: Analytics; Application Integration; Blockchain; Business Applications; Cloud Financial Management; Compute; Containers; Database; Developer Tools; End User Computing; Front-End Web & Mobile. 
 Internet of Things; Machine Learning; Management & Governance; Media Services; Migration & Transfer; Networking & Content Delivery; Quantum Technologies; Robotics; Satellite; Security, Identity, & Compliance, and Storage.
-Author Bio - [Paulo H. Leocadio]
+
+
+**Author Bio -**
+##[Paulo H. Leocadio]
+
+
 Paulo Leocadio developed the bulk of his professional career working for Microsoft Corp., where he held Leadership and Consultant positions with Microsoft Services Division. As Director of Support Engineering, he led a multi-country organization with over 200 professionals delivering services to approximately nine thousand customers across Latin America, with a P&L of $48MM. Earlier he led the Enterprise (Premier) Support business overseeing 7 services practices, managing direct relationship with top 550 tiered customers in 28 Latin America countries, having grown the business from $12MM to $67MM in revenue and meeting a 42% delivery margin during his five years tenure. Earlier in his career, Paulo gained extensive experience in designing and delivering solutions for large corporations and governments in different countries, managing complex projects and solving business problems with technology and applied sciences.  
 
 Paulo holds an Electronics Engineering degree from Universidade Mackenzie (Brazil), and an M. B. A. in International Business, with distinction, from Strayer University.  He has completed additional studies at Northwestern’s University Kellogg College (Marketing Excellence), UC San Diego (Data Sciences), and Phoenix University (Doctorate in Information Systems and Technologies, incomplete). He has lectured on new and emerging technologies and software engineering methodologies on symposiums and expositions worldwide.  
@@ -62,14 +93,14 @@ Paulo holds an Electronics Engineering degree from Universidade Mackenzie (Brazi
 Paulo has participated in several USTDA-sponsored technical assistances over the last five years such as Cloud and Big Data Smart City for the Government of the Municipality of Istanbul (Solutions Architect); Ho Chi Minh City Intelligent Operations Centre Project (Cloud Solutions Architect), and Philippines DICT Cloud Centre of Excellence (Solutions Architect). He is actively participating in different phases of on-going bids and contract processes.
 
 Paulo’s in-depth expertise are concentrated in Cloud, Data Sciences, Digital Transformation, Smart Cities, IT Operations Management.  
-  Section II
- Table of Contents
+
+
+Section II
+----------------  
+
+**Table of Contents**
  
-Section
- Title	     Chapter
- No	Chapter
-Title	Page
-Count	Chapter
+| Section Title	|     Chapter  No	| Chapter Title	| Page Count	Chapter
  Delivery Date
 Intro	1.	Intro: AWS architecture 	 22	 
 IaaS 	2.	Compute	40	 
