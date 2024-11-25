@@ -22,7 +22,7 @@ Section I
 **Book Title –** 
 
 
-#[Mastering AWS]
+# [Mastering AWS]
 
 _Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastructure to serverless applications.__
 
@@ -30,7 +30,7 @@ _Understand AWS Cloud and its comprehensive offerings catalogue:  from infrastru
 **Subtitle -**
 
 
-##[Cloud adoption using the AWS Cloud computing ecosystem]
+## [Cloud adoption using the AWS Cloud computing ecosystem]
 
 _AWS provides Cloud-based tools (offerings, products) enabling businesses in all segments and sizes to seamlessly migrate or build their business IT operations in the Cloud. An exploratory journey throughout the AWS Cloud Computing ecosystem to understand the fundaments for Cloud adoption alternatives._
 
@@ -38,7 +38,7 @@ _AWS provides Cloud-based tools (offerings, products) enabling businesses in all
 **Tagline -**
 
 
-##[Explore AWS Cloud ecosystem]
+## [Explore AWS Cloud ecosystem]
 
 _This book will help you in understanding the AWS Cloud and how to leverage its services and components to build your Cloud-based environment._
 
@@ -46,7 +46,7 @@ _This book will help you in understanding the AWS Cloud and how to leverage its 
 **Who is this book for -** 
 
 
-##[Students and Professionals]
+## [Students and Professionals]
 
 _This book was written for the technical Cloud computing aficionado. Systems Engineers, Solutions Engineers, Solution Architects, Systems Architects, Software Engineers, and related professionals in the Information Technology industry, and for students of the same industry, whose target career is planned to include Cloud computing knowledge._
 
@@ -78,8 +78,9 @@ Please list the top two competing books
 TBD – while I browsed through the many books on the topic, I learned there are more that might be relevant and/or important to compare. However, none so far have an end-to-end AWS overview and use cases like we plan to do. I will have these titles the sooner I can (also, if the team has recommendations, they are welcome).
 
 
-**Tech List –** 
-##[AWS Cloud Products]
+**Tech List –**
+
+## [AWS Cloud Products]
 
 
 _This book will reference to all AWS Cloud Product Categories: Analytics; Application Integration; Blockchain; Business Applications; Cloud Financial Management; Compute; Containers; Database; Developer Tools; End User Computing; Front-End Web & Mobile. 
@@ -87,7 +88,8 @@ Internet of Things; Machine Learning; Management & Governance; Media Services; M
 
 
 **Author Bio -**
-##[Paulo H. Leocadio]
+
+## [Paulo H. Leocadio]
 
 
 Paulo Leocadio developed the bulk of his professional career working for Microsoft Corp., where he held Leadership and Consultant positions with Microsoft Services Division. As Director of Support Engineering, he led a multi-country organization with over 200 professionals delivering services to approximately nine thousand customers across Latin America, with a P&L of $48MM. Earlier he led the Enterprise (Premier) Support business overseeing 7 services practices, managing direct relationship with top 550 tiered customers in 28 Latin America countries, having grown the business from $12MM to $67MM in revenue and meeting a 42% delivery margin during his five years tenure. Earlier in his career, Paulo gained extensive experience in designing and delivering solutions for large corporations and governments in different countries, managing complex projects and solving business problems with technology and applied sciences.  
@@ -122,7 +124,8 @@ Section II
 
 **Chapter Details**
  
-###Chapter 1: [Introduction] [22 pages]
+### Chapter 1: [Introduction] [22 pages]
+
 **Description**: AWS architecture
 **Topics to be covered**: Immersion on AWS architecture showing components and respective services.
  
