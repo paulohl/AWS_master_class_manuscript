@@ -1,4 +1,4 @@
-# AWS_master_class
+# AWS Master Class
 
 www.bpbonline.com
 | Section Title | Chapter No | Chapter Title                     | Page Count | Chapter Delivery Date |
