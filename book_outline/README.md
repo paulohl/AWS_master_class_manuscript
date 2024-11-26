@@ -145,10 +145,11 @@ Section II
 **Topics to be covered**: 
 *	Compute
 *	knln
-	
-⋅⋅*	Amazon EC2
-
-⋅⋅*	Amazon EC2 Auto Scaling 
+*
+*
+*
+*	⋅⋅*	Amazon EC2
+*	⋅⋅*	Amazon EC2 Auto Scaling 
 
 ⋅⋅*	Amazon EC2 Spot Instances
 
