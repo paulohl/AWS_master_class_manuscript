@@ -15,8 +15,11 @@ Book Outline
 ============
 
 
+============
+
+
 Section I
-----------------
+============
 
 
 **Book Title –** 
@@ -105,7 +108,7 @@ Paulo’s in-depth expertise are concentrated in Cloud, Data Sciences, Digital T
 
 
 Section II
-----------------  
+===============  
 
 
 **Table of Contents**
