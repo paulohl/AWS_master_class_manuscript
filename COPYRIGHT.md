@@ -11,4 +11,4 @@ and may be referenced as citation using standard academic citation formats.
 Any copy or reuse without quotations and proper citation will be considered plagiarism 
 under international intellctual property and copyright laws:
 
-&copy;
+&copy; 2024 Zinnia Technologies & Applied Sciences - All rights reserved
