@@ -108,6 +108,9 @@ Paulo has participated in several USTDA-sponsored technical assistances over the
 Paulo’s in-depth expertise are concentrated in Cloud, Data Sciences, Digital Transformation, Smart Cities, IT Operations Management.  
 
 
+______________
+
+
 
 Section II
 ===============  
