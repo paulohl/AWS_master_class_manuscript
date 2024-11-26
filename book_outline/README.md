@@ -144,12 +144,18 @@ Chapter 1: [Introduction] [22 pages]
 ------------------------------------
 
 
+
+
 **Description**: AWS architecture
 
 **Topics to be covered**: Immersion on AWS architecture showing components and respective services.
  
 
-### Chapter 2: [Compute] [40 pages]
+Chapter 2: [Compute] [40 pages]
+------------------------------------
+
+
+
 
 
 **Description**: AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure.
@@ -179,7 +185,10 @@ Chapter 1: [Introduction] [22 pages]
 
 
 
-### Chapter 3: [Storage] [40 pages]
+Chapter 3: [Storage] [40 pages]
+------------------------------------
+
+
 
 
 
@@ -200,7 +209,10 @@ Chapter 1: [Introduction] [22 pages]
 
 
 
-### Chapter 4: [Content Delivery Network] [35 pages]
+Chapter 4: [Content Delivery Network] [35 pages]
+------------------------------------
+
+
 
 
 
@@ -249,6 +261,11 @@ AWS Satellite category contains a fully managed service that enables the control
 
 
 ### Chapter 5: [Security, Identity & Compliance] [50 pages]
+------------------------------------
+
+
+
+
 
 **Description**: AWS and its partners offer a wide range of tools and features to help customers meet their security objectives and adhere to compliance policies. These tools mirror the controls currently deployed within on-premises environments. AWS provides security-specific tools and features across network security, configuration management, access control and data security. In addition, AWS provides monitoring and logging tools that provide full visibility into what is happening in your environment.
 
@@ -279,7 +296,12 @@ AWS Satellite category contains a fully managed service that enables the control
 23.	AWS WAF
 
 
-### Chapter 6: [Database] [50 pages]
+Chapter 6: [Database] [50 pages]
+------------------------------------
+
+
+
+
 
 **Description**: A database is an electronically stored, systematic collection of data. It can contain any type of data, including words, numbers, images, videos, and files. You can use software called a database management system (DBMS) to store, retrieve, and edit data. In computer systems, the word database can also refer to any DBMS, to the database system, or to an application associated with the database.
 
@@ -304,7 +326,12 @@ AWS Cloud Databases provides a broad selection of purpose-built databases for an
     *	Amazon Timestream
 
 
-### Chapter 7: [Developer Tools & DevOps (IaC)] [55 pages]
+Chapter 7: [Developer Tools & DevOps (IaC)] [55 pages]
+------------------------------------
+
+
+
+
 
 **Description**: Developer Tools provide services to code, build, test, and deploy applications. The user can leverage core tools like software development kits (SDKs), code editors, and continuous integration and delivery (CI/CD) services for DevOps software development. Use machine learning (ML) -guided best practices and abstractions to improve agility, security, velocity, and code quality.
 
@@ -370,7 +397,12 @@ AWS Quantum Technologies provide a fully managed quantum computing service that 
 
 
 
-### Chapter 8: [End User Computing, Front End & Mobile] [27 pages]
+Chapter 8: [End User Computing, Front End & Mobile] [27 pages]
+------------------------------------
+
+
+
+
 
 **Description**: AWS offers a broad set of tools and services to support development workflows for native iOS/Android, React Native, and JavaScript developers. 
 
@@ -397,7 +429,12 @@ The Front-end web and mobile tools and services are built on top of AWS, so deve
 
 
 
-### Chapter 9: [Applications for Business] [75 pages]
+Chapter 9: [Applications for Business] [75 pages]
+------------------------------------
+
+
+
+
 
 **Description**: AWS innovative business applications with the same on-demand scalability, reliability, pay-as-you go pricing, and machine learning that drives AWS cloud infrastructure. This category of services quickly procures and deploy business application software that address your need to enhance business agility, lower costs, and transform the customer experience. Also, customers centralize governance, innovate quickly, and launch business application products that align with your organization’s policies and compliance requirements. 
 
@@ -448,7 +485,11 @@ Amazon Managed Blockchain (AMB) is a fully managed service designed to help cust
     *	Amazon Quantum Ledger Database (QLDB)
 
 
-### Chapter 10: [Analytics and Machine Learning] [19 pages]
+Chapter 10: [Analytics and Machine Learning] [19 pages]
+------------------------------------
+
+
+
 
 **Description**: AWS provides a broad selection of analytics services that fit all data analytics needs and enables organizations of all sizes and industries to reinvent their business with data. From data movement, data storage, data lakes, big data analytics, log analytics, streaming analytics, business intelligence, and machine learning (ML) to anything in between, AWS offers purpose-built services built to provide the best price-performance, scalability, and lowest cost.
 	
@@ -510,7 +551,11 @@ AWS provides machine learning services to help professionals build smarter appli
     *	Amazon CodeWhisperer
 
 
-### Chapter 11: [Management & Governance] [50 pages]
+Chapter 11: [Management & Governance] [50 pages]
+------------------------------------
+
+
+
 
 **Description**: AWS Management and Governance Services are a suite of tools designed to help the management of existing AWS resources in a secure, scalable, and cost-effective manner. Customers can use AWS Management and Governance services to assess their resource utilization and identify ways to reduce costs.
 
@@ -546,7 +591,11 @@ AWS provides machine learning services to help professionals build smarter appli
 
 
 
-### Chapter 12: [Migration & Transfer] [22 pages]
+Chapter 12: [Migration & Transfer] [22 pages]
+------------------------------------
+
+
+
 
 **Description**: AWS provides services that enable customers migrate any workload – applications, websites, databases, storage, physical or virtual servers – and even entire data centres from an on-premises environment, hosting facility, or other public cloud to AWS. 
 
@@ -562,7 +611,11 @@ AWS provides machine learning services to help professionals build smarter appli
 8.	Migration Evaluator (formerly TSO Logic)
 
 
-### Chapter 13: [AWS Well-Architected Framework] [35 pages]
+Chapter 13: [AWS Well-Architected Framework] [35 pages]
+------------------------------------
+
+
+
 
 **Description**: “AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability—AWS Well-Architected provides a consistent approach for customers and partners to evaluate architectures and implement scalable designs. “
 
