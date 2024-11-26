@@ -137,44 +137,58 @@ Section II
 **Topics to be covered**: Immersion on AWS architecture showing components and respective services.
  
 
-Chapter 2: [Compute] [40 pages]
-Description: AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure.
-Topics to be covered: 
-➢	Compute 
-○	Amazon EC2
-○	Amazon EC2 Auto Scaling 
-○	Amazon EC2 Spot Instances
-○	Amazon Elastic Container Service (ECS)
-○	Amazon Elastic Kubernetes Service (EKS)
-○	Amazon Lightsail
-○	AWS App Runner
-○	AWS Auto Scaling
-○	AWS Batch
-○	AWS Compute Optimizer
-○	AWS Elastic Beanstalk
-○	AWS Fargate
-○	AWS Lambda
-○	AWS Local Zones
-○	AWS Outposts
-○	AWS Serverless Application Repository
-○	AWS SimSpace Weaver
-○	AWS Wavelength
-○	VMware Cloud on AWS
-Chapter 3: [Storage] [40 pages]
-Description: AWS storage services are grouped by three different sub-categories: block storage, file storage, and object storage. This chapter details file and storage types.
-Topics to be covered: 
-➢	Storage 
-○	Amazon Elastic Block Store (EBS)
-○	Amazon Elastic File System (EFS)
-○	Amazon FSx
-○	Amazon S3 Glacier
-○	Amazon Simple Storage Service (S3)
-○	AWS Backup
-○	AWS Snow Family
-○	AWS Storage Gateway
-○	AWS Elastic Disaster Recovery (DRS)
+### Chapter 2: [Compute] [40 pages]
 
-Chapter 4: [Content Delivery Network] [35 pages]
+
+
+**Description**: AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure.
+**Topics to be covered**: 
+*	Compute 
+⋅⋅*	Amazon EC2
+⋅⋅*	Amazon EC2 Auto Scaling 
+⋅⋅*	Amazon EC2 Spot Instances
+⋅⋅*	Amazon Elastic Container Service (ECS)
+⋅⋅*	Amazon Elastic Kubernetes Service (EKS)
+⋅⋅*	Amazon Lightsail
+⋅⋅*	AWS App Runner
+⋅⋅*	AWS Auto Scaling
+⋅⋅*	AWS Batch
+⋅⋅*	AWS Compute Optimizer
+⋅⋅*	AWS Elastic Beanstalk
+⋅⋅*	AWS Fargate
+⋅⋅*	AWS Lambda
+⋅⋅*	AWS Local Zones
+⋅⋅*	AWS Outposts
+⋅⋅*	AWS Serverless Application Repository
+⋅⋅*	AWS SimSpace Weaver
+⋅⋅*	AWS Wavelength
+⋅⋅*	VMware Cloud on AWS
+
+
+
+### Chapter 3: [Storage] [40 pages]
+
+
+
+**Description**: AWS storage services are grouped by three different sub-categories: block storage, file storage, and object storage. This chapter details file and storage types.
+**Topics to be covered**: 
+*	Storage 
+⋅⋅*	Amazon Elastic Block Store (EBS)
+⋅⋅*	Amazon Elastic File System (EFS)
+⋅⋅*	Amazon FSx
+⋅⋅*	Amazon S3 Glacier
+⋅⋅*	Amazon Simple Storage Service (S3)
+⋅⋅*	AWS Backup
+⋅⋅*	AWS Snow Family
+⋅⋅*	AWS Storage Gateway
+⋅⋅*	AWS Elastic Disaster Recovery (DRS)
+
+
+
+### Chapter 4: [Content Delivery Network] [35 pages]
+
+
+
 Description: A content delivery network (CDN) can deliver two types of content: static content and dynamic content. CDNs work by establishing a point of presence (POP) or a group of CDN edge servers at multiple geographical locations. This geographically distributed network works on the principles of caching, dynamic acceleration, and edge logic computations.
 
 AWS IoT provides the cloud services that connect your IoT devices to other devices and AWS cloud services. AWS IoT provides device software that can help integrate IoT devices into AWS IoT-based solutions. If the existing devices can connect to AWS IoT, AWS IoT can connect them to the cloud services that AWS provides.
