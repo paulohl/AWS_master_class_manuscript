@@ -73,8 +73,11 @@ The book was written with a technical perspective, including logical design, dia
 
 
 Please list the top two competing books
+
 [Insert Text Here]
+
 [Insert Text Here]
+
 TBD – while I browsed through the many books on the topic, I learned there are more that might be relevant and/or important to compare. However, none so far have an end-to-end AWS overview and use cases like we plan to do. I will have these titles the sooner I can (also, if the team has recommendations, they are welcome).
 
 
@@ -134,6 +137,7 @@ Section II
 
 
 **Description**: AWS architecture
+
 **Topics to be covered**: Immersion on AWS architecture showing components and respective services.
  
 
@@ -141,7 +145,9 @@ Section II
 
 
 **Description**: AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure.
+
 **Topics to be covered**: 
+
 *	Compute
     *	Amazon EC2
     *	Amazon EC2 Auto Scaling 
@@ -170,6 +176,7 @@ Section II
 
 
 **Description**: AWS storage services are grouped by three different sub-categories: block storage, file storage, and object storage. This chapter details file and storage types.
+
 **Topics to be covered**: 
 
 *	Storage 
@@ -234,7 +241,9 @@ AWS Satellite category contains a fully managed service that enables the control
 
 
 ### Chapter 5: [Security, Identity & Compliance] [50 pages]
+
 **Description**: AWS and its partners offer a wide range of tools and features to help customers meet their security objectives and adhere to compliance policies. These tools mirror the controls currently deployed within on-premises environments. AWS provides security-specific tools and features across network security, configuration management, access control and data security. In addition, AWS provides monitoring and logging tools that provide full visibility into what is happening in your environment.
+
 **Topics to be covered**: 
 
 1.	Amazon Cognito
@@ -263,17 +272,15 @@ AWS Satellite category contains a fully managed service that enables the control
 
 
 ### Chapter 6: [Database] [50 pages]
+
 **Description**: A database is an electronically stored, systematic collection of data. It can contain any type of data, including words, numbers, images, videos, and files. You can use software called a database management system (DBMS) to store, retrieve, and edit data. In computer systems, the word database can also refer to any DBMS, to the database system, or to an application associated with the database.
 
-
 A cloud database typically runs on a cloud-computing platform. There are two standard deployment models: users can run databases on the cloud independently or purchase access from a cloud database provider. Cloud databases can follow both SQL and NoSQL data models.
-
 
 AWS Cloud Databases provides a broad selection of purpose-built databases for any enterprise. AWS databases support all database management tasks, such as server provisioning, patching, configuration, and backups. As a result, you can focus on application development while AWS continuously monitors databases and automate scaling.
 
 
 **Topics to be covered**:
-
 
 *	Database
     *	Amazon Aurora
@@ -291,28 +298,23 @@ AWS Cloud Databases provides a broad selection of purpose-built databases for an
 
 ### Chapter 7: [Developer Tools & DevOps (IaC)] [55 pages]
 
-
 **Description**: Developer Tools provide services to code, build, test, and deploy applications. The user can leverage core tools like software development kits (SDKs), code editors, and continuous integration and delivery (CI/CD) services for DevOps software development. Use machine learning (ML) -guided best practices and abstractions to improve agility, security, velocity, and code quality.
-
 
 Application integration on AWS is a suite of services that enable communication between decoupled components within microservices, distributed systems, and serverless applications. These services provide decoupling for microservices, distributed systems, and serverless applications, allowing developers to connect apps, without needing to write custom code to enable interoperability.
 
-
 Containers are a key component of modern app development. They have become the standard way to organize compute resources and manage the content of application deployments. 
-
 
 A container is a standardized unit of software development that holds everything that a software application requires to run. This includes relevant code, runtime, system tools, and system libraries. Containers are created from a read-only template that's called an image. Images are typically built from a Dockerfile. A Dockerfile is a plaintext file that specifies all the components that are included in the container. After they're built, these images are stored in a registry such as Amazon ECR where they can be downloaded from.
 
-
 Containers provide a discrete reproducible compute environment. They also provide a way to simplify packaging and dependency management. From the orchestration of very large multi-cluster estates to web applications - or even and doing a proof of concept on the developer computer - they are a great way to get started and build software to deploy in the cloud.
-
 
 With the assumption that robots are machines that sense, compute, and act. AWS Robotics provide a robotics development environment for application development, a robotics simulation service to accelerate application testing, and a robotics fleet management service for remote application deployment, update, and management. 
 
-
 AWS Quantum Technologies provide a fully managed quantum computing service that helps researchers and developers get started with the technology to accelerate research and discovery. Thes technologies provide a development environment for developers to explore and build quantum algorithms, test them on quantum circuit simulators, and run them on different quantum hardware technologies.
 
+
 **Topics to be covered**:
+
 *	Developer Tools
     *	Amazon CodeCatalyst 
     *	Amazon CodeGuru
@@ -359,17 +361,14 @@ AWS Quantum Technologies provide a fully managed quantum computing service that 
 *	Amazon Braket
 
 
-### Chapter 8: [End User Computing, Front End & Mobile] [27 pages]
 
+### Chapter 8: [End User Computing, Front End & Mobile] [27 pages]
 
 **Description**: AWS offers a broad set of tools and services to support development workflows for native iOS/Android, React Native, and JavaScript developers. 
 
-
 The purpose-built tools and services for front-end web and mobile developers through AWS, makes it easier to build apps with cloud functionality on AWS, enabling a faster go-to-market outcome.
 
-
 These services provide an end-to-end solution to develop, deliver, test, and monitor anr app. Customers can combine front-end tools with the breadth and depth of AWS services to support evolving business requirements.
-
 
 The Front-end web and mobile tools and services are built on top of AWS, so developers benefit from the reliability of AWS infrastructure to on the delivery of secure, highly available apps that can scale automatically across the globe.
 
@@ -389,11 +388,10 @@ The Front-end web and mobile tools and services are built on top of AWS, so deve
     *	AWS Device Farm
 
 
+
 ### Chapter 9: [Applications for Business] [75 pages]
 
-
 **Description**: AWS innovative business applications with the same on-demand scalability, reliability, pay-as-you go pricing, and machine learning that drives AWS cloud infrastructure. This category of services quickly procures and deploy business application software that address your need to enhance business agility, lower costs, and transform the customer experience. Also, customers centralize governance, innovate quickly, and launch business application products that align with your organization’s policies and compliance requirements. 
-
 
 A customer can access pricing options that give you the flexibility to test business application platforms, pay as you go, negotiate custom terms, and save money with long-term commitments.
 
@@ -404,7 +402,8 @@ AWS offers a purpose-built media service, software, and to make creating, transf
 Amazon Managed Blockchain (AMB) is a fully managed service designed to help customers to build resilient Web3 applications on both public and private blockchains.  AMB provides tools for instant and serverless access to multiple blockchains. Customers can Web3-ready applications without having to worry about deploying specialized blockchain infrastructure and keeping them connected to the blockchain network. Also, AMB offers a developer-friendly APIs to access real-time and historical data from multiple blockchains. The standardized blockchain data can be integrated with AWS services, with no specialized blockchain infrastructure or ETL (extract, transform, and load) needed. All AMB features scale securely for institutional grade and mainstream consumer application builds.
 
 
-**Topics to be covered*:
+**Topics to be covered**:
+
 *	Business Applications
     *	Alexa for Business
     *	Amazon Chime
@@ -443,13 +442,11 @@ Amazon Managed Blockchain (AMB) is a fully managed service designed to help cust
 
 ### Chapter 10: [Analytics and Machine Learning] [19 pages]
 
-
 **Description**: AWS provides a broad selection of analytics services that fit all data analytics needs and enables organizations of all sizes and industries to reinvent their business with data. From data movement, data storage, data lakes, big data analytics, log analytics, streaming analytics, business intelligence, and machine learning (ML) to anything in between, AWS offers purpose-built services built to provide the best price-performance, scalability, and lowest cost.
 	
 AWS provides machine learning services to help professionals build smarter applications and processes and make better decisions from the available data. Amazon have been investing in artificial intelligence for more than twenty years. Machine learning is at the core of what our customers experience—from providing you with product recommendations on Amazon.com to Echo powered by Amazon Alexa. Amazon’s mission is to share their experience and machine learning capabilities for all organizations to benefit from AI.
 
-
-Topics to be covered:
+**Topics to be covered**:
 *	Analytics
     *	Amazon Athena
     *	Amazon CloudSearch
@@ -507,9 +504,10 @@ Topics to be covered:
 
 ### Chapter 11: [Management & Governance] [50 pages]
 
-
 **Description**: AWS Management and Governance Services are a suite of tools designed to help the management of existing AWS resources in a secure, scalable, and cost-effective manner. Customers can use AWS Management and Governance services to assess their resource utilization and identify ways to reduce costs.
+
 **Topics to be covered**:
+
 *	Amazon CloudWatch
 *	Amazon Managed Grafana
 *	Amazon Managed Service for Prometheus
@@ -541,8 +539,11 @@ Topics to be covered:
 
 
 ### Chapter 12: [Migration & Transfer] [22 pages]
+
 **Description**: AWS provides services that enable customers migrate any workload – applications, websites, databases, storage, physical or virtual servers – and even entire data centres from an on-premises environment, hosting facility, or other public cloud to AWS. 
+
 **Topics to be covered**:
+
 1.	AWS Application Migration Service (MGN)
 2.	AWS Application Discovery Service
 3.	AWS Database Migration Service (DMS)
@@ -554,8 +555,11 @@ Topics to be covered:
 
 
 ### Chapter 13: [AWS Well-Architected Framework] [35 pages]
+
 **Description**: “AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability—AWS Well-Architected provides a consistent approach for customers and partners to evaluate architectures and implement scalable designs. “
+
 **Topics to be covered**:
+
 *	AWS Well-Architected and the Six Pillars.
 *	AWS Well-Architected Lenses
 *	AWS Well-Architected Guidance
