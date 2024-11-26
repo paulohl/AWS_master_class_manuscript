@@ -140,8 +140,8 @@ Section II
 **Chapter Details**
 
  
-### Chapter 1: [Introduction] [22 pages]
-
+Chapter 1: [Introduction] [22 pages]
+------------------------------------
 
 
 **Description**: AWS architecture
