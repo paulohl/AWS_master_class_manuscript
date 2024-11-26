@@ -143,10 +143,15 @@ Section II
 
 **Description**: AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure.
 **Topics to be covered**: 
-*	Compute 
+*	Compute
+*	knln
+	
 ⋅⋅*	Amazon EC2
+
 ⋅⋅*	Amazon EC2 Auto Scaling 
+
 ⋅⋅*	Amazon EC2 Spot Instances
+
 ⋅⋅*	Amazon Elastic Container Service (ECS)
 ⋅⋅*	Amazon Elastic Kubernetes Service (EKS)
 ⋅⋅*	Amazon Lightsail
