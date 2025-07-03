@@ -1,0 +1,469 @@
+TY  - JOUR
+AU  - Zhu, X.
+AU  - Wan, J.
+AU  - Tang, S.
+AU  - Li, D.
+AU  - He, X.
+AU  - Luan, H.
+AU  - Tang, S.
+T1  - Efficient Resource Allocation and Scheduling for Elastic Containers in Cloud Data Centers
+JO  - IEEE Transactions on Parallel and Distributed Systems
+Y1  - 2017
+VL  - 29
+SP  - 1504–1517
+EP  - 1504–1517
+ER  -
+TY  - JOUR
+AU  - White, J.
+AU  - Smith, A.
+AU  - Jones, P.
+T1  - Efficient application deployment in the cloud
+JO  - Journal of Cloud Computing Research
+Y1  - 2020
+VL  - 8
+SP  - 45–60
+EP  - 45–60
+M3  - https://doi.org/10.1016/j.jccr.2020.03.004
+ER  -
+TY  - CONF
+AU  - Zhou, Jun
+AU  - Zhang, Yan
+AU  - Wong, Weng-Fai
+T1  - Fault Tolerant Stencil Computation on Cloud-Based GPU Spot Instances
+T2  - Proceedings of the 12th ACM International Conference on Utility and Cloud Computing
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+Y1  - 2019/october
+VL  - 7
+IS  - 4
+SP  - 1013–1024
+EP  - 1013–1024
+M3  - https://doi.org/10.1109/tcc.2017.2710311
+U1  - 2372-0018
+ER  -
+TY  - JOUR
+AU  - Shi, Weisong
+AU  - Cao, Jie
+AU  - Zhang, Quan
+AU  - Li, Youhuizi
+AU  - Xu, Lanyu
+T1  - Edge Computing: Vision and Challenges
+JO  - IEEE Internet of Things Journal
+Y1  - 2016
+VL  - 3
+IS  - 5
+SP  - 637–646
+EP  - 637–646
+UR  - https://www.semanticscholar.org/paper/e3a442aa24e5df7e6b2a25e21e75c4c325f9eedf
+M3  - https://doi.org/10.1109/jiot.2016.2579198
+U1  - 2327-4662
+N2  - The proliferation of Internet of Things (IoT) and the success of rich cloud services have pushed the horizon of a new computing paradigm, edge computing, which calls for processing the data at the edge of the network. Edge computing has the potential to address the concerns of response time requirement, battery life constraint, bandwidth cost saving, as well as data safety and privacy. In this paper, we introduce the definition of edge computing, followed by several case studies, ranging from cloud offloading to smart home and city, as well as collaborative edge to materialize the concept of edge computing. Finally, we present several challenges and opportunities in the field of edge computing, and hope this paper will gain attention from the community and inspire more research in this direction.
+ER  -
+TY  - JOUR
+AU  - Shehata, I.
+AU  - Ghoneimy, A.
+T1  - Dynamic Resource Management and Optimization for Cloud Computing: A Survey
+JO  - IEEE Transactions on Cloud Computing
+Y1  - 2016
+VL  - 6
+SP  - 1–1
+EP  - 1–1
+ER  -
+TY  - BOOK
+AU  - Leinhauser, Matthew
+AU  - Young, Jeffrey
+AU  - Bastrakov, Sergei
+AU  - Widera, Rene
+AU  - Chatterjee, Ronnie
+AU  - Chandrasekaran, Sunita
+T1  - Performance Analysis of PIConGPU: Particle-in-Cell on GPUs using NVIDIA’s NSight Systems and NSight Compute
+PB  - Office of Scientific and Technical Information (OSTI)
+Y1  - 2019/january
+SP  - 227–232
+EP  - 227–232
+M3  - https://doi.org/10.2172/1761619
+ER  -
+TY  - GEN
+AU  - Baldini, Ioana
+AU  - Castro, Paul C.
+AU  - Chang, K.
+AU  - Cheng, P.
+AU  - Fink, Stephen J.
+AU  - Isahagian, Vatche
+AU  - Mitchell, N.
+AU  - Muthusamy, Vinod
+AU  - Rabbah, Rodric M.
+AU  - Slominski, Aleksander
+AU  - Suter, Philippe
+A2  - Chaudhary, Sanjay
+A2  - Somani, Gaurav
+A2  - Buyya, Rajkumar
+T1  - Serverless Computing: Current Trends and Open Problems
+PB  - Springer
+AD  - Singapore
+Y1  - 2017
+SP  - 1–20
+EP  - 1–20
+UR  - https://www.semanticscholar.org/paper/6058e777ff668552a01141f110c03e8a32fa7349
+M3  - https://doi.org/10.1007/978-981-10-5026-8_1
+N2  - Serverless computing has emerged as a new compelling paradigm for the deployment of applications and services. It represents an evolution of cloud programming models, abstractions, and platforms, and is a testament to the maturity and wide adoption of cloud technologies. In this chapter, we survey existing serverless platforms from industry, academia, and open-source projects, identify key characteristics and use cases, and describe technical challenges and open problems.
+ER  -
+TY  - JOUR
+AU  - Lee, J.
+AU  - Kim, H.
+AU  - Park, S.
+T1  - Simplified cloud interfaces for non-technical users.
+JO  - Journal of Cloud Computing
+Y1  - 2020
+VL  - 15
+SP  - 45–62
+EP  - 45–62
+ER  -
+TY  - CONF
+AU  - Karras, O.
+AU  - Mateos, C.
+AU  - Schulze, T.
+T1  - Towards User-Friendly Cloud Management Interfaces: A Review of User-Friendly Cloud Interfaces
+T2  - 2018 IEEE/ACM International Conference on Utility and Cloud Computing (UCC
+Y1  - 2018
+SP  - 259–265
+EP  - 259–265
+ER  -
+TY  - GEN
+AU  - Jananee, M.
+AU  - Suresh, A.
+A2  - Castillo, Oscar
+A2  - Anand, Sameer
+A2  - Jaiswal, Ajay
+T1  - Effective Strategies for Resource Allocation and Scheduling in Cloud Computing
+PB  - Springer Nature Singapore
+AD  - Singapore
+Y1  - 2023
+IS  - v.703
+SP  - 69–81
+EP  - 69–81
+M3  - https://doi.org/10.1007/978-981-99-3315-0_7
+ER  -
+TY  - CONF
+AU  - Hashmi, M. S.
+AU  - Mustafa, S.
+T1  - A Review on Automation of Application Deployment in Cloud
+T2  - 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM
+Y1  - 2016
+SP  - 815–822
+EP  - 815–822
+ER  -
+TY  - CONF
+AU  - Faisal, S. S.
+AU  - Ady, A.
+T1  - Cloud Computing for Batch Data Processing: A Survey
+T2  - 2018 IEEE International Conference on Cloud Computing Technology and Science (CloudCom
+Y1  - 2018
+SP  - 74–82
+EP  - 74–82
+ER  -
+TY  - JOUR
+AU  - Collaris, D.
+AU  - Bertrand, D.
+AU  - Dhillon, D.
+AU  - Hardy, M.
+AU  - Sensen, C. W.
+T1  - Kubernetes Cluster Resource Optimization in the Cloud
+JO  - IEEE Cloud Computing
+Y1  - 2020
+VL  - 7
+SP  - 70–77
+EP  - 70–77
+ER  -
+TY  - BOOK
+AU  - Broberg, James
+A2  - Buyya, Rajkumar
+A2  - Broberg, James
+A2  - Goscinski, Andrzej M.
+T1  - Cloud Computing
+PB  - John Wiley and Sons, Inc.
+AD  - Hoboken, NJ
+Y1  - 2011/march
+IS  - v.87
+SP  - 511–531
+EP  - 511–531
+M3  - https://doi.org/10.1002/9780470940105.ch20
+N1  - Added to JabRef: 2011-03-29
+ER  -
+TY  - GEN
+AU  - Boiko, R.
+A2  - AWS
+T1  - How IPONWEB Adopted Spot Instances to Run their Real-time Bidding Workloads
+JO  - AWS Blogs
+Y1  - 2021/august
+UR  - https://aws.amazon.com/blogs/architecture/how-iponweb-adopted-spot-instances-to-run-their-real-time-bidding-workloads/
+ER  -
+TY  - JOUR
+AU  - Armbrust, Michael
+AU  - Fox, A.
+AU  - Griffith, Rean
+AU  - Joseph, A.
+AU  - Katz, R.
+AU  - Konwinski, A.
+AU  - Lee, Gunho
+AU  - Patterson, D.
+AU  - Rabkin, Ariel S.
+AU  - Stoica, Ion
+AU  - Zaharia, M.
+T1  - A view of cloud computing
+JO  - Communications of the ACM
+Y1  - 2010
+VL  - 53
+IS  - 4
+SP  - 50–58
+EP  - 50–58
+UR  - https://www.semanticscholar.org/paper/1f7190fc294246f83f1f331cc51e3264851d0d36
+M3  - https://doi.org/10.1145/1721654.1721672
+U1  - 1557-7317
+ER  -
+TY  - CONF
+AU  - Ali-Eldin, Ahmed
+AU  - Kihl, Maria
+AU  - Tordsson, Johan
+AU  - Elmroth, Erik
+T1  - Efficient provisioning of bursty scientific workloads on the cloud using adaptive elasticity control
+T2  - Proceedings of the 3rd workshop on Scientific Cloud Computing
+PB  - ACM
+Y1  - 2012
+VL  - 7
+SP  - 31–40
+EP  - 31–40
+UR  - https://www.semanticscholar.org/paper/edb70c52cfbbe2987ca25c874856d440d17420a7
+M3  - https://doi.org/10.1145/2287036.2287044
+N2  - Elasticity is the ability of a cloud infrastructure to dynamically change the amount of resources allocated to a running service as load changes. We build an autonomous elasticity controller that changes the number of virtual machines allocated to a service based on both monitored load changes and predictions of future load. The cloud infrastructure is modeled as a G/G/N queue. This model is used to construct a hybrid reactive-adaptive controller that quickly reacts to sudden load changes, prevents premature release of resources, takes into account the heterogeneity of the workload, and avoids oscillations. Using simulations with Web and cluster workload traces, we show that our proposed controller lowers the number of delayed requests by a factor of 70 for the Web traces and 3 for the cluster traces when compared to a reactive controller. Our controller also decreases the average number of queued requests by a factor of 3 for both traces, and reduces oscillations by a factor of 7 for the Web traces and 3 for the cluster traces. This comes at the expense of between 20% and 30% over-provisioning, as compared to a few percent for the reactive controller.
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases:: AWS Lightsail
+UR  - https://aws.amazon.com/lightsail/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: VMware Cloud on AWS
+Y1  - 2024
+UR  - https://aws.amazon.com/vmware/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Wavelength
+Y1  - 2024
+UR  - https://aws.amazon.com/wavelength/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Outposts
+Y1  - 2024
+UR  - https://aws.amazon.com/outposts/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Local Zones
+Y1  - 2024
+UR  - https://aws.amazon.com/local-zones/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Lightsail
+Y1  - 2024
+UR  - https://aws.amazon.com/lightsail/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Lambda
+Y1  - 2024
+UR  - https://aws.amazon.com/lambda/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Fargate
+UR  - https://aws.amazon.com/fargate/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS Elastic Beanstalk
+Y1  - 2024
+UR  - https://aws.amazon.com/elasticbeanstalk/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS EKS
+Y1  - 2024
+UR  - https://aws.amazon.com/eks/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Use Cases: AWS ECS
+Y1  - 2024
+UR  - https://aws.amazon.com/ecs/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS EC2 Spot Instances
+Y1  - 2024
+UR  - https://aws.amazon.com/ec2/spot/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS EC2
+Y1  - 2024
+UR  - https://aws.amazon.com/ec2/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS Compute Optimizer
+Y1  - 2024
+UR  - https://aws.amazon.com/compute-optimizer/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS Autoscaling
+Y1  - 2024
+UR  - https://aws.amazon.com/ec2/autoscaling/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Use Cases: AWS App Runner
+Y1  - 2024
+UR  - https://aws.amazon.com/apprunner/features/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Serverless Repository
+Y1  - 2024
+UR  - https://aws.amazon.com/serverless/serverlessrepo
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Serverless AWS Application Repository Use Cases
+Y1  - 2024
+UR  - https://aws.amazon.com/serverless/serverlessrepo/use-cases
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Documentation: VMware Cloud on AWS
+Y1  - 2024
+UR  - https://cloud.vmware.com/vmc-on-aws
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Documentation: AWS Wavelength
+Y1  - 2024
+UR  - https://aws.amazon.com/wavelength/
+ER  -
+TY  - GEN
+AU  - AWS
+A2  - AWS
+T1  - AWS Documentation: AWS Outposts
+Y1  - 2024
+UR  - https://aws.amazon.com/outposts/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Local Zones
+Y1  - 2024
+UR  - https://aws.amazon.com/local-zones/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Lightsail
+Y1  - 2024
+UR  - https://aws.amazon.com/lightsail/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Lambda
+Y1  - 2024
+UR  - https://aws.amazon.com/lambda/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Fargate
+Y1  - 2924
+UR  - https://aws.amazon.com/fargate/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Elastic Beanstalk
+Y1  - 2024
+UR  - https://aws.amazon.com/elasticbeanstalk/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS EKS
+Y1  - 2024
+UR  - https://aws.amazon.com/eks/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS ECS
+Y1  - 2024
+UR  - https://aws.amazon.com/ecs/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS EC2 Spot Instances
+Y1  - 2024
+UR  - https://aws.amazon.com/ec2/spot/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS EC2
+Y1  - 2024
+UR  - https://aws.amazon.com/ec2/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Compute-optimizer
+Y1  - 2024
+UR  - https://aws.amazon.com/compute-optimizer/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS CloudWatch
+Y1  - 2024
+UR  - https://aws.amazon.com/cloudwatch/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Batch
+Y1  - 2024
+UR  - https://aws.amazon.com/batch/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS Autoscaling
+Y1  - 2024
+UR  - https://aws.amazon.com/autoscaling/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Documentation: AWS App Runner
+Y1  - 2024
+UR  - https://aws.amazon.com/apprunner/
+ER  -
+TY  - CONF
+AU  - Subbiah, A.
+AU  - Santone, A.
+AU  - Matthews, J.
+T1  - Efficient Cloud Elasticity Management Through Predictive Scaling
+T2  - 2019 IEEE International Conference on Cloud Computing (CLOUD
+PB  - IEEE
+Y1  - 2019
+SP  - 167–176
+EP  - 167–176
+ER  -
