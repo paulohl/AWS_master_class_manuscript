@@ -1,0 +1,302 @@
+@WWW{AWS2024.o,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Deep Learning Containers},
+  url          = {https://aws.amazon.com/machine-learning/containers/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.n,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Data Exchange},
+  url          = {https://aws.amazon.com/data-exchange/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  publisher    = {AWS Data Exchange},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.b,
+  author         = {AWS},
+  editor         = {Amazon Web Services,},
+  title          = {AWS Analytics},
+  url            = {https://aws.amazon.com/analytics/},
+  organization   = {Amazon Web Services},
+  booktitle      = {AWS Documentation},
+  journal        = {AWS Documentation},
+  msbib-accessed = {2025-01-28},
+  year           = {2024.},
+}
+
+@WWW{AWS2024.j,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon OpenSearch Service},
+  url          = {https://aws.amazon.com/opensearch-service/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024i,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Fraud Detector},
+  url          = {https://aws.amazon.com/fraud-detector/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024.a,
+  author       = {AWS},
+  editor       = {Amazon Web Services},
+  title        = {Amazon Elastic Inference},
+  url          = {https://aws.amazon.com/elastic-inference/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024b,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon CodeWhisperer},
+  url          = {https://aws.amazon.com/codewhisperer/},
+  organization = {Amazon Web Services,},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024a,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Augmented AI},
+  url          = {https://aws.amazon.com/augmented-ai/},
+  organization = {Amazon Web Services,},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024,
+  author         = {AWS,},
+  editor         = {Amazon Web Services,},
+  title          = {Amazon Athena},
+  url            = {https://aws.amazon.com/athena/},
+  organization   = {Amazon Web Services,},
+  journal        = {AWS Documentation},
+  msbib-accessed = {2025},
+  year           = {2024},
+}
+
+@WWW{AWS2024l,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {TensorFlow on AWS},
+  url          = {https://aws.amazon.com/tensorflow/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024.c,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Deep Learning Inference Acceleration},
+  url          = {https://aws.amazon.com/deep-learning/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.m,
+  author         = {AWS},
+  editor         = {Amazon Web Services,},
+  title          = {AWS Panorama},
+  url            = {https://aws.amazon.com/panorama/},
+  organization   = {Amazon Web Services},
+  booktitle      = {AWS Documentation},
+  msbib-accessed = {2025-01-28},
+  year           = {2024.},
+}
+
+@WWW{AWS2024.d,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Lake Formation},
+  url          = {https://aws.amazon.com/lake-formation/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.l,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Inferentia},
+  url          = {https://aws.amazon.com/inferentia/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024c,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Glue},
+  url          = {https://aws.amazon.com/glue/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024k,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS DeepComposer},
+  url          = {https://aws.amazon.com/deepcomposer/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024d,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Data Pipeline},
+  url          = {https://aws.amazon.com/datapipeline/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024.k,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {AWS Clean Rooms},
+  url          = {https://aws.amazon.com/clean-rooms/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.e,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Transcribe},
+  url          = {https://aws.amazon.com/transcribe/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.i,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Redshift},
+  url          = {https://aws.amazon.com/redshift/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.g,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Polly},
+  url          = {https://aws.amazon.com/polly/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.h,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Omics},
+  url          = {https://aws.amazon.com/omics/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024.f,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Lookout for Metrics},
+  url          = {https://aws.amazon.com/lookout-for-metrics/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@WWW{AWS2024j,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Lex},
+  url          = {https://aws.amazon.com/lex/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024e,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon HealthLake},
+  url          = {https://aws.amazon.com/healthlake/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024h,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Forecast},
+  url          = {https://aws.amazon.com/forecast/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024g,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon DevOps Guru},
+  url          = {https://aws.amazon.com/devops-guru/},
+  organization = {Amazon Web Services},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024f,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon DataZone},
+  url          = {https://aws.amazon.com/datazone/},
+  organization = {Amazon Web Services,},
+  booktitle    = {AWS Documentation},
+  year         = {2024},
+}
+
+@WWW{AWS2024.,
+  author       = {AWS},
+  editor       = {Amazon Web Services,},
+  title        = {Amazon Comprehend},
+  url          = {https://aws.amazon.com/comprehend/},
+  note         = {Retrieved from},
+  organization = {Amazon Web Services,},
+  booktitle    = {AWS Documentation},
+  year         = {2024.},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

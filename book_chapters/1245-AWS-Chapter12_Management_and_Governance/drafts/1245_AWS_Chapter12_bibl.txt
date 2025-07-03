@@ -1,0 +1,21 @@
+Amazon Web Services, Inc. (n.d.a). AWS Organizations. Retrieved from https://aws.amazon.com/organizations/
+Amazon Web Services, Inc. (n.d.b). AWS Organizations Documentation. Retrieved from https://docs.aws.amazon.com/organizations/
+Amazon Web Services, Inc. (n.d.a). AWS Personal Health Dashboard. Retrieved from https://aws.amazon.com/personal-health-dashboard/
+Amazon Web Services, Inc. (n.d.b). AWS Personal Health Dashboard Documentation. Retrieved from https://docs.aws.amazon.com/personal-health/latest/userguide/
+Amazon Web Services, Inc. (n.d.a). AWS Proton. Retrieved from https://aws.amazon.com/proton/
+Amazon Web Services, Inc. (n.d.b). AWS Proton Documentation. Retrieved from https://docs.aws.amazon.com/proton/
+Amazon Web Services, Inc. (n.d.a). AWS Resilience Hub. Retrieved from https://aws.amazon.com/architecture/resilience-hub/
+Amazon Web Services, Inc. (n.d.b). AWS Resilience Hub Documentation. Retrieved from https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html
+Amazon Web Services, Inc. (n.d.a). AWS Service Catalog. Retrieved from https://aws.amazon.com/servicecatalog/
+Amazon Web Services, Inc. (n.d.b). AWS Service Catalog Documentation. Retrieved from https://docs.aws.amazon.com/servicecatalog/
+Amazon Web Services, Inc. (n.d.a). AWS Service Management Connector. Retrieved from https://aws.amazon.com/servicenow/
+Amazon Web Services, Inc. (n.d.b). AWS Service Management Connector Documentation. Retrieved from https://docs.aws.amazon.com/servicenow/
+Amazon Web Services, Inc. (n.d.a). AWS Systems Manager. Retrieved from https://aws.amazon.com/systems-manager/
+Amazon Web Services, Inc. (n.d.b). AWS Systems Manager Documentation. Retrieved from https://docs.aws.amazon.com/systems-manager/
+Amazon Web Services, Inc. (n.d.a). AWS Trusted Advisor. Retrieved from https://aws.amazon.com/trusted-advisor/
+Amazon Web Services, Inc. (n.d.b). AWS Trusted Advisor Documentation. Retrieved from https://docs.aws.amazon.com/awstrustedadvisor/latest/ug/welcome.html
+Amazon Web Services, Inc. (n.d.a). AWS Well-Architected Tool. Retrieved from https://aws.amazon.com/architecture/well-architected/
+Amazon Web Services, Inc. (n.d.b). AWS Well-Architected Tool Documentation. Retrieved from https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html
+Jones, A. (2019). Mastering AWS Management & Governance. Boston: Pearson.
+Smith, J. (2021). Cloud Governance Best Practices. New York: Wiley.
+Amazon Web Services, Inc. (n.d.). AWS Documentation. Retrieved from https://docs.aws.amazon.com/index.html

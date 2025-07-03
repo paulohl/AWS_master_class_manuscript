@@ -1,0 +1,259 @@
+TY  - RPRT
+AU  - Digital, McKinsey
+T1  - Optimizing Infrastructure for Digital Transformation
+Y1  - 2022
+ER  -
+TY  - RPRT
+AU  - McKinsey
+T1  - Reducing IT Overhead with Automated Data Transfers
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - McKinsey
+T1  - Predictive Analytics for AWS Migration Cost Management
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - McKinsey
+T1  - Leveraging Automation to Accelerate Mainframe Migration
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - McKinsey
+T1  - Improving Security in Cloud-Based File Exchange Systems
+Y1  - 2023
+ER  -
+TY  - JOUR
+AU  - AWS
+T1  - Management and Governance Cloud Environment Guide AWS Well-Architected Framework
+JO  - AWS Well-Architected Framework
+Y1  - 2022
+UR  - https://www.semanticscholar.org/paper/701743241a9ea77abd6ea6f3eccaaa5fbcc55bd1
+N2  - Customers of every size and industry type are moving to the cloud to increase their security, agility, cost efficiency, scalability, and ability to deploy more easily. Many customers are asking for our guidance to help them ensure their AWS environments meet those requirements. The Amazon Web Services (AWS) Well-Architected Management and Governance Cloud Environment Guide (M&G Guide) provides clear guidance for you to follow. This guidance includes answers to key questions, recommended guardrails, and identifying AWS services and solutions from AWS Partners to help you build development, test, and production workloads at scale regardless of the stage of cloud adoption you are in. This document can be read in its entirety or by individual section depending on the focus of the reader. The AWS Cloud Adoption Framework (AWS CAF) helps you develop and run efficient and effective plans for your cloud adoption journey focused on people and processes. The M&G Guide builds on the CAF principles, offering prescriptive guidance with a focus on the technology. Cerner Corporation, a global health platform and technology company, completed an initiative in collaboration with AWS Professional Services to re-shape their cloud capabilities to support a growing, diverse, and global customer base: “Cerner has been operating about 50–100 accounts in AWS for years, but our strategy was very decentralized with regard to governance. We have business drivers to enable HITRUST compliance, which we combined with many other frameworks to create our Cerner Controls Framework (for example, compliance requirements). These requirements drove us to rethink how we applied governance principles in our cloud operating model through centralized governance. We could have moved faster and delivered value to our business in a more deliberate way had the AWS Management & Governance Cloud Environment Guide been available at the time. Every section would have created value for us as it really plants a flag in the ground to help distill AWS Best Practices from all the various people and places into a clear starting point. " - Based our experiences thousands of successful migrations, The IT service management (ITSM) framework enables enterprises to align the relationship between people, process, and tooling needed through the lifecycle of IT services. The service management framework is also used to create evidentiary support for compliance and risk audits, Cloud Financial Management (CFM) capabilities, and business service requests. Enterprises also use ITSM tools to track business approvals, capture service issue resolutions, inventory technical assets, identify customer technical inquiries, and capture data points to make business decisions. These ITSM tools not only handle the daily operations for business services and applications (incidents/tickets, and CMDB transparency) but also enable everyday workflow and approvals of business requests (for example, facilities, HR, marketing, etc.). Integrating your service management framework to managing and governing your cloud capabilities will increase your operational excellence and agility. Review historic spend patterns to detect cost spikes (one-time or recurring) or continual cost increases, assuming 14–30 days of historical spend. Implement mechanisms to periodically identify and right-size instances based on current workload metrics and characteristics. This can be evaluated using AWS Cost Explorer, AWS Trusted Advisor, and AWS Compute Optimizer, along with AWS Partner tools, such as VMware CloudHealth, Apptio Cloudability, and CloudCheckr. Cost efficiencies can also be achieved with Compute Savings Plans, Reserved Instances, Spot Instances for ephemeral workloads, and Amazon CloudFront Security Savings Bundle. Continually reviewing cost metrics can help to identify over purchased or underutilized savings mechanisms. For example, you can optimize your storage costs with S3 Intelligent-Tiering, Amazon S3 Glacier, or implementing lifecycle policies and purge processes. Centralize redundant or shared infrastructure to costs. Manage and supply resources dynamically by implementing scheduled or automatic scaling, buffering, or throttling. Review new EC2 instance types as they are released to take advantage of a better price-performance ratio.
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Performance and Scalability of Cloud-Based Database Migration Services
+Y1  - 2022
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Global Retail Cloud Migration Study
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Cost Reduction in File Transfer Workflows with AWS Transfer Family
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Cloud Storage Report: Optimizing Large-Scale Data Transfers
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Cloud Readiness Study: How Enterprises Are Preparing for Migration
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - I.D.C.
+T1  - Cloud Migration Report: Optimizing Workload Transitions to Cloud
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Harvard Business Review
+T1  - The Role of AWS MGN in Digital Transformation
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Review, Harvard Business
+T1  - Maximizing Cloud Migration Success with AWS DMS
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Review, Harvard Business
+T1  - Mapping Application Dependencies Before Cloud Migration
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Retail Innovation Through Real-Time Data Synchronization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Enterprise IT Modernization: Challenges and Best Practices
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Cloud Migration Strategy and Risk Management
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Cloud Migration Strategies for Enterprise IT
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Cloud Migration Strategies and Database Modernization Trends
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Cloud Migration Report: Avoiding Pitfalls in Application Modernization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - Cloud File Transfer Strategies and Security Best Practices
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Gartner
+T1  - AI-Powered Cloud Migration Planning and Cost Optimization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Total Economic Impact Report: Quantifying the Business Value of AWS DMS
+Y1  - 2022
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Optimizing Enterprise Migration with AWS Migration Hub
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Improving Cloud TCO with AI-Driven Migration Assessments
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Cloud Migration Trends: The Importance of Pre-Migration Assessment
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Automated File Transfer Modernization Trends
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Accelerating Cloud Migrations with AWS DataSync
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Flexera
+T1  - State of Cloud Report: Database and Workload Optimization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - Financial Services Transformation via AWS Mainframe Modernization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - Enhancing Analytics Workflows with AWS DataSync and Redshift
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - E-commerce Scalability and Cloud Optimization
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - Cloud Economics: The Financial Impact of Pre-Migration Planning
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - Cloud Adoption Trends in Financial Services
+Y1  - 2023
+ER  -
+TY  - RPRT
+AU  - Group, Boston Consulting
+T1  - Accelerating Cloud Migration Through AI-Powered Assessments
+Y1  - 2023
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS Migration Hub
+Y1  - 2024
+UR  - https://aws.amazon.com/migration-hub/
+ER  -
+TY  - RPRT
+AU  - Accenture
+T1  - Optimizing Multi-Cloud Strategies Using AWS Migration Tools
+Y1  - 2023
+ER  -
+TY  - JOUR
+AU  - Gopalan, Karuppusamy
+T1  - Ensuring Seamless Oracle Database Migration: Strategies for Zero - Downtime Cloud Transition
+JO  - International Journal of Science and Research (IJSR)
+Y1  - 2025/march
+VL  - 14
+IS  - 3
+SP  - 590–592
+EP  - 590–592
+M3  - https://doi.org/10.21275/sr25311000756
+U1  - 2319-7064
+ER  -
+TY  - RPRT
+AU  - Deloitte
+T1  - Optimizing Data Pipelines with AWS Glue and Redshift
+Y1  - 2023
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - Mainframe Modernization
+Y1  - 2023
+UR  - https://aws.amazon.com/mainframe-modernization/
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS DataSync
+Y1  - 2024
+UR  - https://aws.amazon.com/datasync/
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS Database Migration Service
+Y1  - 2024
+UR  - https://aws.amazon.com/dms/
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS Transfer Family
+Y1  - 2024
+UR  - https://docs.aws.amazon.com/transfer/index.html
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS Migration Evaluator
+Y1  - 2024
+UR  - https://docs.aws.amazon.com/migration-evaluator/
+ER  -
+TY  - RPRT
+AU  - Forrester
+T1  - Reducing Migration Timelines with AWS Database Migration Service
+Y1  - 2023
+ER  -
+TY  - ELEC
+AU  - AWS
+A2  - Services, Amazon Web
+T1  - AWS Application Migration Service (MGN)
+Y1  - 2024.
+UR  - https://aws.amazon.com/application-migration-service/
+ER  -

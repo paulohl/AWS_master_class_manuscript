@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Mobile DevOps: Deliver Continuous Mobile Apps Faster and More Efficiently</b:Title>
+		<b:Publisher>Apress</b:Publisher>
+		<b:Tag>Srinivasan2019</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Srinivasan</b:Last>
+						<b:First>V.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2019</b:Year>
+		<b:RefOrder>31</b:RefOrder></b:Source><b:Source><b:Tag>Smi19</b:Tag><b:SourceType>JournalArticle</b:SourceType><b:Guid>{028E1DD3-301D-403A-969F-9D565DDB857E}</b:Guid><b:Title>Revolutionizing End User Computing: A Case Study of Amazon AppStream 2.0.</b:Title><b:Year>2019</b:Year><b:Author><b:Author><b:NameList><b:Person><b:Last>Smith</b:Last><b:First>J.</b:First></b:Person><b:Person><b:Last>Jones</b:Last><b:First>A.</b:First></b:Person></b:NameList></b:Author></b:Author><b:JournalName>Journal of Cloud Computing Advances and Applications</b:JournalName><b:Pages>112-129</b:Pages><b:Volume>5</b:Volume><b:Issue>2</b:Issue><b:RefOrder>8</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Cloud Computing Advances in Modern Business</b:Title>
+		<b:Publisher>Academic Press</b:Publisher>
+		<b:Tag>Smith2018</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Smith</b:Last>
+						<b:First>J.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Jones</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2018</b:Year>
+		<b:RefOrder>34</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Digital Marketing Strategies: An Integrated Approach to Online Marketing</b:Title>
+		<b:Publisher>Routledge</b:Publisher>
+		<b:Tag>Smith2018a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Smith</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Johnson</b:Last>
+						<b:First>B.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2018</b:Year>
+		<b:RefOrder>20</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2016</b:Year>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Email Marketing: An Hour a Day</b:Title>
+		<b:Publisher>John Wiley and Sons</b:Publisher>
+		<b:Tag>Sharma2016</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Sharma</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>24</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>bookinbook</b:BIBTEX_Entry>
+		<b:SourceType>Misc</b:SourceType>
+		<b:Title>RESTful Web APIs</b:Title>
+		<b:Publisher>O'Reilly Media</b:Publisher>
+		<b:Tag>Richardson2013</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Richardson</b:Last>
+						<b:First>L.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Amundsen</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Ruby</b:Last>
+						<b:First>S.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2013</b:Year>
+		<b:PublicationTitle>RESTful Web APIs</b:PublicationTitle>
+		<b:RefOrder>15</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Hands-On Full Stack Development with AWS AppSync and React</b:Title>
+		<b:Publisher>Packt Publishing</b:Publisher>
+		<b:Tag>Raj2018</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Raj</b:Last>
+						<b:First>R.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Breskim</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2018</b:Year>
+		<b:RefOrder>29</b:RefOrder></b:Source><b:Source><b:Tag>McC23</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{F2649A10-B96C-428F-B224-B261890870B6}</b:Guid><b:Author><b:Author><b:NameList><b:Person><b:Last>McCandless</b:Last><b:First>K.</b:First></b:Person></b:NameList></b:Author></b:Author><b:Title>3 ways AppStream 2.0 transforms the CTE and STEM experience in schools</b:Title><b:Year>2023</b:Year><b:Month>March</b:Month><b:Day>07</b:Day><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://aws.amazon.com/blogs/publicsector/3-ways-appstream-2-0-transforms-cte-stem-experience-schools/#:~:text=During%20the%20pandemic%2C%20schools%20made,PLTW</b:URL><b:InternetSiteTitle>AWS Public Sector Blog</b:InternetSiteTitle><b:RefOrder>5</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2015</b:Year>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Geographic Information Science and Systems</b:Title>
+		<b:Publisher>John Wiley and Sons</b:Publisher>
+		<b:Tag>Longley2015</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Longley</b:Last>
+						<b:Middle>A.</b:Middle>
+						<b:First>P.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Goodchild</b:Last>
+						<b:Middle>F.</b:Middle>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Maguire</b:Last>
+						<b:Middle>J.</b:Middle>
+						<b:First>D.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Rhind</b:Last>
+						<b:Middle>W.</b:Middle>
+						<b:First>D.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>17</b:RefOrder></b:Source><b:Source><b:Tag>Kam24</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{38B616CC-E496-44F1-9C15-53E739B54621}</b:Guid><b:Author><b:Author><b:NameList><b:Person><b:Last>Kamble</b:Last><b:First>N.</b:First></b:Person></b:NameList></b:Author></b:Author><b:Title>End User Computing: Secure, Scalable, and Essential for the Modern Workforce</b:Title><b:Year>2024</b:Year><b:Month>November</b:Month><b:Day>07</b:Day><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://www.cloudthat.com/resources/blog/end-user-computing-secure-scalable-and-essential-for-the-modern-workforce#:~:text=1,pricing%20model%20allows%20organizations%20to</b:URL><b:InternetSiteTitle>CLOUDTHAT TECHNOLOGIES PRIVATE LIMITED</b:InternetSiteTitle><b:RefOrder>3</b:RefOrder></b:Source><b:Source><b:Tag>Kam241</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{8D199196-A825-4BCF-A26A-C86400237788}</b:Guid><b:Author><b:Author><b:NameList><b:Person><b:Last>Kamble</b:Last><b:First>N.</b:First></b:Person></b:NameList></b:Author></b:Author><b:Title>Amazon WorkLink: Secure Mobile Access to Internal Websites</b:Title><b:Year>2024</b:Year><b:Month>November</b:Month><b:Day>07</b:Day><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://www.cloudthat.com/resources/blog/end-user-computing-secure-scalable-and-essential-for-the-modern-workforce#:~:text=Amazon%20WorkLink%20is%20designed%20to,to%20connect%20through%20a%20VPN</b:URL><b:InternetSiteTitle>CLOUDTHAT TECHNOLOGIES PRIVATE LIMITED</b:InternetSiteTitle><b:RefOrder>37</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Mastering AWS AppSync: Build Scalable and High-Performing GraphQL APIs for Your Applications</b:Title>
+		<b:Publisher>Packt Publishing</b:Publisher>
+		<b:Tag>Johnson2019</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Johnson</b:Last>
+						<b:First>E.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2019</b:Year>
+		<b:RefOrder>30</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Volume>25</b:Volume>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Customer Metrics and Their Impact on Financial Performance</b:Title>
+		<b:Tag>Gupta2006</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Gupta</b:Last>
+						<b:First>S.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Zeithaml</b:Last>
+						<b:First>V.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>718–739</b:Pages>
+		<b:Year>2006</b:Year>
+		<b:JournalName>Marketing Science</b:JournalName>
+		<b:Number>6</b:Number>
+		<b:RefOrder>21</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+		<b:SourceType>ConferenceProceedings</b:SourceType>
+		<b:Title>Security Measures in Cloud-Based Virtual Desktop Environments</b:Title>
+		<b:Tag>Garcia2021</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Garcia</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Patel</b:Last>
+						<b:First>S.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>211–225</b:Pages>
+		<b:Year>2021</b:Year>
+		<b:JournalName>Proceedings of the International Conference on Cybersecurity</b:JournalName>
+		<b:RefOrder>12</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Department>University of California</b:Department>
+		<b:Year>2000</b:Year>
+		<b:BIBTEX_Entry>thesis</b:BIBTEX_Entry>
+		<b:SourceType>Misc</b:SourceType>
+		<b:Title>Architectural Styles and the Design of Network-based Software Architectures</b:Title>
+		<b:Tag>Fielding2000</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Fielding</b:Last>
+						<b:Middle>T.</b:Middle>
+						<b:First>R.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:City>Irvine</b:City>
+		<b:ThesisType>Doctoral dissertation,</b:ThesisType>
+		<b:PublicationTitle>Architectural Styles and the Design of Network-based Software Architectures</b:PublicationTitle>
+		<b:RefOrder>14</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2012</b:Year>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Digital Earth from Vision to Practice: Making Sense of Citizen Observatories</b:Title>
+		<b:Publisher>Springer</b:Publisher>
+		<b:Tag>Craglia2012</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Craglia</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Bie</b:Last>
+						<b:First>K.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Jackson</b:Last>
+						<b:First>D.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Pesaresi</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Remetey-Fülöpp</b:Last>
+						<b:First>G.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>18</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Volume>8</b:Volume>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Mobile Application Development in the Cloud Era</b:Title>
+		<b:Tag>Chen2020</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Chen</b:Last>
+						<b:First>L.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Wang</b:Last>
+						<b:First>Y.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>456–467</b:Pages>
+		<b:Year>2020</b:Year>
+		<b:JournalName>IEEE Transactions on Cloud Computing</b:JournalName>
+		<b:Number>3</b:Number>
+		<b:RefOrder>36</b:RefOrder></b:Source><b:Source><b:Tag>Cha20</b:Tag><b:SourceType>Book</b:SourceType><b:Guid>{EE201DD9-771E-4AC6-B6B8-10707F480380}</b:Guid><b:Author><b:Author><b:NameList><b:Person><b:Last>Chambers</b:Last><b:First>D.</b:First></b:Person><b:Person><b:Last>Bacon</b:Last><b:First>J.</b:First></b:Person></b:NameList></b:Author></b:Author><b:Title>Building Scalable Apps with AWS Amplify: A Developer's Guide to Designing Cloud-Enabled Applications</b:Title><b:Year>2020</b:Year><b:Publisher>O'Reilly Media</b:Publisher><b:RefOrder>27</b:RefOrder></b:Source><b:Source><b:Tag>Bro202</b:Tag><b:SourceType>ConferenceProceedings</b:SourceType><b:Guid>{C5E5EFFF-5693-4F32-88CC-466E3C669CE1}</b:Guid><b:Title>Enhancing Security in Application Streaming Services: A Comparative Analysis</b:Title><b:Year>2020</b:Year><b:Pages>45-52</b:Pages><b:Author><b:Author><b:NameList><b:Person><b:Last>Brown</b:Last><b:First>M.,</b:First><b:Middle>et al.</b:Middle></b:Person></b:NameList></b:Author></b:Author><b:ConferenceName>International Conference on Cloud Security</b:ConferenceName><b:RefOrder>9</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Email Marketing Rules: A Step-by-Step Guide to the Best Practices that Power Email Marketing Success</b:Title>
+		<b:Publisher>Wiley</b:Publisher>
+		<b:Tag>Brown2019</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Brown</b:Last>
+						<b:First>J.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2019</b:Year>
+		<b:RefOrder>23</b:RefOrder></b:Source><b:Source><b:Tag>Bre19</b:Tag><b:SourceType>Book</b:SourceType><b:Guid>{CC622425-588D-4521-B7A0-94B9D03E7BAD}</b:Guid><b:Title>Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL</b:Title><b:Publisher> Apress.</b:Publisher><b:Year>2019</b:Year><b:Author><b:Author><b:NameList><b:Person><b:Last>Brennan</b:Last><b:First>R.</b:First></b:Person></b:NameList></b:Author></b:Author><b:RefOrder>26</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+		<b:SourceType>Book</b:SourceType>
+		<b:Title>Continuous Delivery for Mobile with fastlane: Automate your mobile development pipeline for faster, more reliable releases</b:Title>
+		<b:Publisher>O'Reilly Media</b:Publisher>
+		<b:Tag>Bender2018</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Bender</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Karnowski</b:Last>
+						<b:First>D.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Year>2018</b:Year>
+		<b:RefOrder>33</b:RefOrder></b:Source><b:Source><b:Tag>Bel23</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{014A75C0-A924-4B29-B2EC-D62FE6E15BFF}</b:Guid><b:Author><b:Author><b:NameList><b:Person><b:Last>Bell</b:Last><b:First>R.</b:First></b:Person></b:NameList></b:Author></b:Author><b:Title>Getting started with Amazon WorkSpaces</b:Title><b:Year>2023</b:Year><b:Month>November</b:Month><b:Day>16</b:Day><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://aws.amazon.com/blogs/desktop-and-application-streaming/category/end-user-computing/amazon-workspaces/page/6/#:~:text=Amazon%20WorkSpaces%20is%20a%20secure%2C,%E2%80%A6</b:URL><b:InternetSiteTitle>AWS Desktop and Application Streaming</b:InternetSiteTitle><b:RefOrder>4</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Volume>4</b:Volume>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Cloud-Based Virtual Desktops: A Comparative Analysis of WorkSpaces Solutions</b:Title>
+		<b:Tag>Anderson2018</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Anderson</b:Last>
+						<b:Middle>et al</b:Middle>
+						<b:First>R.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>78–94</b:Pages>
+		<b:Year>2018</b:Year>
+		<b:JournalName>Journal of Cloud Computing Advances and Applications</b:JournalName>
+		<b:Number>1</b:Number>
+		<b:RefOrder>11</b:RefOrder></b:Source><b:Source><b:Tag>AWS25</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{94FF8C58-B1E0-4A3D-9442-7A6CC816E23B}</b:Guid><b:Title>What is EUC (End User Computing)?</b:Title><b:Year>2025</b:Year><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://aws.amazon.com/what-is/end-user-computing/#:~:text=End,and%20remotely%20in%20the%20cloud</b:URL><b:Author><b:Author><b:Corporate>AWS</b:Corporate></b:Author></b:Author><b:InternetSiteTitle>Amazon Web Services</b:InternetSiteTitle><b:RefOrder>1</b:RefOrder></b:Source><b:Source><b:Tag>AWS251</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{7EE440BA-31C8-4D0D-81CA-4838F1239679}</b:Guid><b:Author><b:Author><b:Corporate>AWS</b:Corporate></b:Author></b:Author><b:Title>What are the benefits of EUC?</b:Title><b:Year>2025</b:Year><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://aws.amazon.com/what-is/end-user-computing/#:~:text=cloud,user%20system</b:URL><b:InternetSiteTitle>Amazon Web Services</b:InternetSiteTitle><b:RefOrder>2</b:RefOrder></b:Source><b:Source><b:Tag>AWS252</b:Tag><b:SourceType>DocumentFromInternetSite</b:SourceType><b:Guid>{991F7C4B-1D58-4301-836D-8B0F42DAD9CC}</b:Guid><b:Author><b:Author><b:Corporate>AWS</b:Corporate></b:Author></b:Author><b:Title>AWS Remote Work Solutions</b:Title><b:Year>2025</b:Year><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>March</b:MonthAccessed><b:DayAccessed>19</b:DayAccessed><b:URL>https://aws.amazon.com/remote-work-learning/#:~:text=AWS%20End%20User%20Computing%20,IT%20agility%20and%20organizational%20security</b:URL><b:InternetSiteTitle>Amazon Web Services</b:InternetSiteTitle><b:RefOrder>6</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>AWS Device Farm Documentation</b:Title><b:Tag>Services2023</b:Tag><b:URL>https://aws.amazon.com/device-farm/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2023</b:Year><b:Guid>{371CEA0A-06E0-4ED2-A6A5-EFC19D6B5974}</b:Guid><b:RefOrder>32</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>AWS AppSync Documentation</b:Title><b:Tag>Services2023e</b:Tag><b:URL>https://aws.amazon.com/pm/appsync/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2023</b:Year><b:Guid>{4072D3CA-B6D8-4E46-9A68-9CAD294F94A3}</b:Guid><b:RefOrder>28</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:Year>2023</b:Year><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>AWS Amplify Documentation</b:Title><b:Tag>Services2023f</b:Tag><b:URL>https://aws.amazon.com/amplify/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Guid>{7E771349-8EDC-4676-9FF2-4154DE7926D9}</b:Guid><b:RefOrder>25</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon WorkSpaces Documentation</b:Title><b:Tag>Services2003b</b:Tag><b:URL>https://aws.amazon.com/pm/workspaces/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2003</b:Year><b:Guid>{AEC78426-7CF8-4278-8219-7A3790AC2539}</b:Guid><b:RefOrder>10</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon Simple Email Service (SES) Documentation</b:Title><b:Tag>Services2023a</b:Tag><b:URL>https://aws.amazon.com/ses/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2023</b:Year><b:Guid>{6139CAB2-402D-4CC5-9961-16E6C5549B63}</b:Guid><b:RefOrder>22</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon Pinpoint Documentation</b:Title><b:Tag>Services2023b</b:Tag><b:URL>https://aws.amazon.com/pinpoint/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2023</b:Year><b:Guid>{1C490EF6-D556-4DAA-8D0B-03D11934CD6A}</b:Guid><b:RefOrder>19</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon Location Service Documentation</b:Title><b:Tag>Services2003</b:Tag><b:URL>https://aws.amazon.com/pm/location/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2003</b:Year><b:Guid>{392AF5EC-B871-4865-A213-08179C4A7DD5}</b:Guid><b:RefOrder>16</b:RefOrder></b:Source><b:Source><b:Tag>Ama03</b:Tag><b:SourceType>ElectronicSource</b:SourceType><b:Guid>{DDD0D78B-A256-41BD-99C8-0F4FA7EE67BE}</b:Guid><b:Title>Amazon AppStream 2.0 Documentation</b:Title><b:Year>2003</b:Year><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:InternetSiteTitle>AWS Documentation</b:InternetSiteTitle><b:URL>https://aws.amazon.com/appstream2/</b:URL><b:RefOrder>7</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon API Gateway Documentation</b:Title><b:Tag>Services2003a</b:Tag><b:URL>https://aws.amazon.com/api-gateway/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2003</b:Year><b:Guid>{10EE2B87-D9E6-41AB-BEE8-EE495D789D7B}</b:Guid><b:RefOrder>13</b:RefOrder></b:Source><b:Source><b:LCID>1033</b:LCID><b:BIBTEX_Entry>electronic</b:BIBTEX_Entry><b:SourceType>ElectronicSource</b:SourceType><b:Title>Amazon Amplify Documentation</b:Title><b:Publisher>AWS Amplify</b:Publisher><b:Tag>Services2023d</b:Tag><b:URL>https://aws.amazon.com/amplify/</b:URL><b:Author><b:Author><b:Corporate>Amazon Web Services</b:Corporate></b:Author></b:Author><b:Year>2023</b:Year><b:Guid>{C0365B7A-CD1B-439D-B2EF-37E11DB9FD8D}</b:Guid><b:RefOrder>35</b:RefOrder></b:Source></b:Sources>

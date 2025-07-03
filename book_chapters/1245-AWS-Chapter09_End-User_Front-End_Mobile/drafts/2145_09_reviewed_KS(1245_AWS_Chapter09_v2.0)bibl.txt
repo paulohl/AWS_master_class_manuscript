@@ -1,0 +1,36 @@
+AWS (2003) “Amazon AppStream 2.0”: https://aws.amazon.com/appstream2/
+Smith, J., & Jones, A. (2019). Revolutionizing End User Computing: A Case Study of Amazon AppStream 2.0. Journal of Cloud Computing Advances and Applications, 5(2), 112-129.
+Brown, M., et al. (2020). Enhancing Security in Application Streaming Services: A Comparative Analysis. Proceedings of the International Conference on Cloud Security, 45-52.
+AWS Documentation (2003) Amazon WorkSpaces; https://aws.amazon.com/pm/workspaces/
+Anderson, R., et al. (2018). Cloud-Based Virtual Desktops: A Comparative Analysis of WorkSpaces Solutions. Journal of Cloud Computing Advances and Applications, 4(1), 78-94.
+Garcia, M., & Patel, S. (2021). Security Measures in Cloud-Based Virtual Desktop Environments. Proceedings of the International Conference on Cybersecurity, 211-225.
+AWS Documentation (2003): Amazon API Gateway, https://aws.amazon.com/api-gateway/
+Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
+Richardson, L., Amundsen, M., & Ruby, S. (2013). RESTful Web APIs. O'Reilly Media.
+AWS Documentation (2003) Amazon Location Service, https://aws.amazon.com/pm/location/
+Longley, P. A., Goodchild, M. F., Maguire, D. J., & Rhind, D. W. (2015). Geographic Information Science and Systems. John Wiley & Sons.
+Craglia, M., De Bie, K., Jackson, D., Pesaresi, M., & Remetey-Fülöpp, G. (2012). Digital Earth from Vision to Practice: Making Sense of Citizen Observatories. Springer.
+AWS Documentation (2023) Amazon Pinpoint. https://aws.amazon.com/pinpoint/
+Smith, A., & Johnson, B. (2018). Digital Marketing Strategies: An Integrated Approach to Online Marketing. Routledge.
+Gupta, S., & Zeithaml, V. (2006). Customer Metrics and Their Impact on Financial Performance. Marketing Science, 25(6), 718-739.
+AWS Documentation (2023) Amazon Simple Email Service (SES), https://aws.amazon.com/ses/
+Brown, J. (2019). Email Marketing Rules: A Step-by-Step Guide to the Best Practices that Power Email Marketing Success. Wiley.
+Sharma, A. (2016). Email Marketing: An Hour a Day. John Wiley & Sons.
+AWS Documentation (2023) AWS Amplify. https://aws.amazon.com/amplify/
+AWS Documentation (2023), AWS AppSync, https://aws.amazon.com/pm/appsync/
+Raj, R., & Breskim, A. (2018). Hands-On Full Stack Development with AWS AppSync and React. Packt Publishing.
+Johnson, E. (2019). Mastering AWS AppSync: Build Scalable and High-Performing GraphQL APIs for Your Applications. Packt Publishing.
+Srinivasan, V. (2019). Mobile DevOps: Deliver Continuous Mobile Apps Faster and More Efficiently. Apress.
+AWS Documentation (2023). AWS Device Farm. https://aws.amazon.com/device-farm/
+Bender, M., & Karnowski, D. (2018). Continuous Delivery for Mobile with fastlane: Automate your mobile development pipeline for faster, more reliable releases. O'Reilly Media.
+AWS. (2023). Amazon AppStream 2.0. https://aws.amazon.com/appstream2/
+AWS. (2023). Amazon WorkSpaces. https://aws.amazon.com/workspaces/
+Smith, J., & Jones, A. (2018). Cloud Computing Advances in Modern Business. Academic Press.
+AWS. (2023). Amazon API Gateway. https://aws.amazon.com/api-gateway/
+AWS. (2023). Amazon Location Service. https://aws.amazon.com/location/
+AWS. (2023). Amazon Pinpoint. https://aws.amazon.com/pinpoint/
+AWS. (2023). Amazon Simple Email Service (SES). https://aws.amazon.com/ses/
+AWS. (2023). AWS Amplify. https://aws.amazon.com/amplify/
+AWS. (2023). AWS AppSync. https://aws.amazon.com/appsync/
+AWS. (2023). AWS Device Farm. https://aws.amazon.com/device-farm/
+Chen, L., & Wang, Y. (2020). Mobile Application Development in the Cloud Era. IEEE Transactions on Cloud Computing, 8(3), 456-467.

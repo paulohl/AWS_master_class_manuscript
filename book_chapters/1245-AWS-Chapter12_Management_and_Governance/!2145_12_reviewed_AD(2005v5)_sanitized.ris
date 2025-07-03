@@ -1,0 +1,141 @@
+TY  - BOOK
+AU  - Smith, Kevin
+T1  - A Comprehensive Guide to Data Governance Best Practices
+PB  - Center for Open Science
+AD  - New York
+Y1  - 2021
+M3  - https://doi.org/10.31219/osf.io/vwqtx
+ER  -
+TY  - BOOK
+AU  - Jones, A.
+T1  - Mastering AWS Management and Governance
+PB  - Pearson
+AD  - Boston
+Y1  - 2019
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Well-Architected Tool
+Y1  - 2024
+UR  - https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Well-Architected
+Y1  - 2024.
+UR  - https://aws.amazon.com/architecture/well-architected/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Systems Manager Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/systems-manager/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Systems Manager User Guide
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Service Management Connector Administrator Guide
+Y1  - 2024.
+UR  - /https://docs.aws.amazon.com/smc/latest/ag/sn-what-is.html
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Service Management Connector Administrator Guide
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/smc/latest/ag/overview.html/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Service Catalog Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/servicecatalog/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Service Catalog
+Y1  - 2024.
+UR  - https://aws.amazon.com/servicecatalog/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Resilience Hub.
+Y1  - 2024.
+UR  - https://aws.amazon.com/architecture/resilience-hub/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Resilience Hub Documentation.
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Proton Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/proton/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Proton
+Y1  - 2024
+UR  - https://aws.amazon.com/proton/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Personal Health Dashboard Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/personal-health/latest/userguide/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Personal Health Dashboard
+Y1  - 2024..
+UR  - https://aws.amazon.com/personal-health-dashboard/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Organizations Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/organizations/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Organizations
+Y1  - 2024.
+UR  - https://aws.amazon.com/organizations/
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Documentation
+Y1  - 2024.
+UR  - https://docs.aws.amazon.com/index.html
+ER  -
+TY  - ELEC
+AU  - AWS.
+A2  - Amazon Web Services
+T1  - AWS Trusted Advisor
+Y1  - 2024.
+UR  - https://aws.amazon.com/trustedadvisor/
+ER  -

@@ -1,0 +1,505 @@
+TY  - GEN
+AU  - Wilson, E.
+T1  - Simplify Compliance Audits with AWS Audit Manager
+JO  - AWS Security Blog
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Wilson, A.
+T1  - Mastering Network Security with AWS Network Firewall
+Y1  - 2021
+ER  -
+TY  - JOUR
+AU  - Williams, F.
+AU  - Services, R.
+AU  - Awasth, D.
+AU  - Q
+AU  - Shar
+AU  - Manu, H.
+AU  - Mohideen P., M.
+T1  - Effective compliance and audit management using Amazon WebServices (AWS) Audit Manager
+Y1  - 2023/march
+UR  - https://www2.deloitte.com/content/dam/Deloitte/us/Documents/risk/us-deloitte-aws-audit-manager-whitepaper-clean.pdf
+ER  -
+TY  - GEN
+AU  - White, R.
+T1  - AWS Directory Service: Enterprise Cloud Directory Integration
+JO  - AWS re:Invent
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Turner, M.
+T1  - Real-world Applications of AWS Resource Access Manager
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Turner, M.
+T1  - AWS Security Hub Compliance Standards
+JO  - AWS Security Hub Compliance Resources
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Turner, M.
+T1  - AWS Case Study: Real-world Applications of AWS Resource Access Manager
+JO  - AWS Case Studies
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Turner, L.
+T1  - Real-world Applications of AWS Secrets Manager
+JO  - AWS Case Studies
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Securing Your AWS Environment with AWS Firewall Manager
+JO  - AWS Online Tech Talks
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Securing Sensitive Data in AWS with Amazon Macie
+JO  - AWS Blogs
+Y1  - 2020
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Securing AWS Resources with Amazon Verified Permissions
+JO  - AWS Security Blogs
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Mastering AWS Identity and Access Management: A Comprehensive Guide
+JO  - AWS Online Courses
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Best Practices for AWS Security Hub
+JO  - AWS Best Practices
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - AWS Resource Access Manager: Best Practices for Secure Resource Sharing
+JO  - AWS Resource Sharing Best Practices
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, J. (2022). .
+T1  - AWS Network Firewall: Best for Effective Security Policies
+JO  - AWS Best Pracyices
+Y1  - 2023
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - AWS CloudHSM: Security Best Practices
+JO  - AWS Blogs
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Smith, J.
+T1  - Achieving Compliance at Scale with AWS Audit Managet
+JO  - AWS Blogs
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Smith, A.
+T1  - Securing Your Databases with AWS Secrets Manager
+JO  - AWS Integration Guides
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, A.
+T1  - Secure Your Web Applications with AWS Certificate Manager
+JO  - AWS Security Blogs
+Y1  - 2022
+ER  -
+TY  - BOOK
+AU  - Smith, A.
+T1  - Mastering Data Encryption with AWS KMS
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Smith, A.
+T1  - Getting Started with Amazon Inspector
+JO  - AWS Online Tech Talks.
+Y1  - 2020
+ER  -
+TY  - JOUR
+AU  - Smith, A.
+T1  - Extending Active Directory to the Cloud with AWS Directory Service.
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Smith, A.
+T1  - Building a Data Lake for Security Data with Amazon Security Lake
+JO  - AWS Online Tech Talks
+Y1  - 2021
+ER  -
+TY  - BOOK
+AU  - Rittinghouse, J. W.
+AU  - Ransome, J. F.
+T1  - Cloud Computing: Implementation, Management, and Security
+PB  - CRC Press
+Y1  - 2016
+ER  -
+TY  - GEN
+AU  - Perez, S.
+T1  - Navigating Compliance with AWS Artifact
+JO  - AWS Security Blog
+Y1  - 2022
+ER  -
+TY  - JOUR
+AU  - Perez, J.
+T1  - Protection Strategies Against DDoS Attacks
+JO  - Journal of Cloud Security
+Y1  - 2022
+VL  - 8
+SP  - 113–129
+EP  - 113–129
+ER  -
+TY  - GEN
+AU  - Monson, Jacki
+T1  - Security and privacy by design: a proactive approach to cybersecurity
+Y1  - 2020
+UR  - https://www2.deloitte.com/us/en/pages/financial-advisory/articles/resilient-podcast-jacki-monson-security-and-privacy-by-design.html
+ER  -
+TY  - GEN
+AU  - Knight, J.
+T1  - Securing Serverless Architectures with Amazon Cognito
+JO  - AWS Blogs
+Y1  - 2018
+ER  -
+TY  - GEN
+AU  - Kent, S.
+T1  - AWS Identity and Access Management: A Comprehensive Guide
+JO  - AWS Getting Started Guide
+Y1  - 2020
+UR  - https://aws.amazon.com/getting-started/hands-on/secure-aws-workloads-with-iam-policy-summarizer/.
+ER  -
+TY  - GEN
+AU  - Kent, S.
+T1  - Amazon Detective: Investigate Potential Security Issues
+JO  - AWS Documentation
+Y1  - 2021
+UR  - https://aws.amazon.com/getting-started/hands-on/investigate-potential-security-issues-with-amazon-detective/
+ER  -
+TY  - GEN
+AU  - Johnson, M. ().
+T1  - Best Practices for AWS Key Management Service (KMS): A Comprehensive Guide
+JO  - AWS Best Pravtives
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Johnson, L.
+AU  - Brown, M.
+T1  - Leveraging Machine Learning for Data Security with Amazon Macie
+JO  - AWS Blogs
+Y1  - 2018
+ER  -
+TY  - JOUR
+AU  - Gartner, Inc
+T1  - Cloud Security Posture Management
+JO  - Gartner Reports
+Y1  - 2021
+UR  - https://www.gartner.com/en/information-technology/glossary/cloud-security-posture-management-cspm.
+ER  -
+TY  - GEN
+AU  - Garcia, L.
+AU  - Turner, R.
+T1  - Achieving Least Privilege with Amazon Verified Permissions
+JO  - AWS Online Tech Talks
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Davis, M.
+AU  - Wilson, E.
+T1  - Using AWS Artifact for Regulatory Compliance
+JO  - AWS Online Tech Talks
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Davis, B.
+AU  - White, C.
+T1  - Enhancing Cloud Security with Amazon Security Lake
+JO  - AWS Blogs
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Brown, R.
+T1  - Best Practices for AWS IAM Implementation
+JO  - AWS Whitepapers
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Brown, R.
+T1  - AWS Firewall Manager: Advanced Security for AWS Environments
+JO  - AWS re:Invent
+Y1  - 2021
+ER  -
+TY  - BOOK
+AU  - Brown, M.
+T1  - Securing Your Data with AWS CloudHSM
+Y1  - 2022
+ER  -
+TY  - GEN
+AU  - Brown, M.
+T1  - How Amazon GuardDuty Works
+JO  - AWS Online Tech Talks
+Y1  - 2020
+ER  -
+TY  - GEN
+AU  - Brown, L.
+T1  - Managing SSL/TLS Certificates at Scale with AWS Certificate Manager
+JO  - AWS Online Tech Talks
+Y1  - 2021
+ER  -
+TY  - GEN
+AU  - Bonilla, D.
+T1  - AWS Identity and Access Management: Design and Manage Secure and Scalable Permissions
+JO  - AWS Blogs
+Y1  - 2018
+ER  -
+TY  - GEN
+AU  - AWSm
+T1  - AWS Firewall Manager
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/network-firewall
+ER  -
+TY  - GEN
+AU  - AWS.
+T1  - AWS Best Practices: AWS WAF
+JO  - AWS Best Practices
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/best-practices/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Securing Mobile and Serverless Applications with Amazon Cognito
+JO  - AWS Whitepaper
+Y1  - 2020
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Logging and Monitoring with AWS WAF
+JO  - AWS Documentation
+Y1  - 2024
+UR  - https://aws.amazon.com/waf/features/logging-monitoring/
+ER  -
+TY  - GEN
+AU  - Egregious Eleven Deep Dive
+T1  - Top Threats to Cloud Computing
+JO  - Egregious Eleven Deep Dive
+Y1  - 2023
+UR  - https://cloudsecurityalliance.org/research/top-threats/egregious-eleven-deep-dive/.
+ER  -
+TY  - GEN
+AU  - KPMG
+T1  - Top Threats and Opportunities in Financial Services
+Y1  - 2019
+UR  - https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/11/top-threats-and-opportunities-in-financial-services.pdf.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Filtering with AWS WAF
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/features/filtering/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Content Filtering with AWS WAF
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/features/filtering/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Whitepapers
+JO  - AWS Whitepapers and Guides
+Y1  - 2023
+UR  - https://aws.amazon.com/whitepapers/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Best PracticesL AWS WAF
+JO  - AWS Best Practices
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/best-practices/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS WAF
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Shield Advanced
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/shield/advanced/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Shield
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/shield/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Security Hub
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/security-hub/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Secrets Manager
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/secrets-manager/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Resource Access Manager (RAM)
+JO  - AWS Documentation
+Y1  - 2023
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Network Firewall
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/network-firewall/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Managed Rulesets
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/managed-rules/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Key Management Service
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/kms/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Identity and Access Management (IAM) Identity Center
+JO  - AWS Documentation
+Y1  - 2023
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Identity and Access Management (IAM)
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/ram/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Directory Service
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/directoryservice/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS CloudHSM
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/cloudhsm/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Certificate Manager
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/certificate-manager/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Case Study: AWS WAF
+JO  - AWS Case Studies
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Audit Manager
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/audit-manager/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Artifact
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/artifact/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - API Security with AWS WAF
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/waf/features/api-security
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Verified Permissions
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/identity/verified-permissions/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Security Lake
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/security-lake/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Macie
+JO  - AWS Documentation
+Y1  - 2021
+UR  - https://aws.amazon.com/macie/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Inspector
+JO  - AWS Documentation
+Y1  - 2021
+UR  - https://aws.amazon.com/inspector/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon GuardDuty
+JO  - AWS Documentation
+Y1  - 2021
+UR  - https://aws.amazon.com/guardduty/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Detective
+JO  - AWS Documentation
+Y1  - 2021
+UR  - https://aws.amazon.com/detective/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Cognito Overview
+JO  - AWS Documentation
+Y1  - 2025
+UR  - https://aws.amazon.com/cognito/
+ER  -

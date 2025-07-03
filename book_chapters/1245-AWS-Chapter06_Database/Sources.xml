@@ -1,0 +1,875 @@
+@InProceedings{zaslavsky2012a,
+  author       = {Zaslavsky, A. and Perera, C. and Georgakopoulos, D.},
+  booktitle    = {2012 19th IEEE International Conference on Web Services},
+  title        = {Sensor cloud: a cloud of virtualized sensors},
+  language     = {english},
+  organization = {2012 19th IEEE International Conference on Web Services},
+  pages        = {407–414},
+  publisher    = {IEEE},
+  year         = {2012},
+}
+
+@InProceedings{wohler2015a,
+  author       = {Wohler, D. and McCall, D.},
+  booktitle    = {Proceedings of the Symposium on Cloud Computing},
+  title        = {Measuring Redis Throughput and Latency},
+  language     = {english},
+  organization = {Proceedings of the Symposium on Cloud Computing},
+  pages        = {20–23},
+  year         = {2015},
+}
+
+@Book{vogels2019a,
+  author    = {Vogels, Werner},
+  title     = {AWS Launches Amazon DocumentDB (with MongoDB Compatibility},
+  language  = {english},
+  publisher = {AWS News Blog},
+  url       = {https://aws.amazon.com/blogs/aws.},
+  year      = {2019},
+}
+
+@Article{vogels2009a,
+  author   = {Vogels, W.},
+  title    = {Eventually consistent},
+  language = {english},
+  pages    = {14–18},
+  volume   = {7},
+  journal  = {ACM Queue},
+  year     = {2009},
+}
+
+@InProceedings{tilmann2015a,
+  author       = {Tilmann, A. and Kotzyba, G.},
+  booktitle    = {Proceedings of the 16th International Middleware Conference},
+  title        = {An Evaluation of Distributed In-Memory Databases},
+  language     = {english},
+  organization = {Proceedings of the 16th International Middleware Conference},
+  pages        = {46–57},
+  year         = {2015},
+}
+
+@InProceedings{tekli2015a,
+  author       = {Tekli, J. and Mansour, E.},
+  booktitle    = {2015 IEEE/ACM 7th International Workshop on Big Data Technologies and Applications (BIDATA},
+  title        = {Performance Analysis of NoSQL Databases},
+  language     = {english},
+  organization = {2015 IEEE/ACM 7th International Workshop on Big Data Technologies and Applications (BIDATA},
+  publisher    = {IEEE Xplore},
+  url          = {https://ieeexplore.ieee.org/document/7343744},
+  year         = {2015},
+}
+
+@Article{strauch2019a,
+  author   = {Strauch, C. and Paradies, M.},
+  title    = {A survey of distributed database management systems},
+  language = {english},
+  pages    = {1–33},
+  volume   = {52},
+  journal  = {ACM Computing Surveys (CSUR},
+  year     = {2019},
+}
+
+@Article{stonebraker2010a,
+  author   = {Stonebraker, M.},
+  title    = {SQL databases v},
+  language = {english},
+  pages    = {10–11},
+  volume   = {53},
+  journal  = {NoSQL databases. Communications of the ACM},
+  year     = {2010},
+}
+
+@Article{sivasubramanian2019a,
+  author   = {Sivasubramanian, S.},
+  title    = {Amazon DynamoDB: a seamlessly scalable non-relational database service},
+  language = {english},
+  pages    = {64–71},
+  volume   = {62},
+  journal  = {Communications of the ACM},
+  year     = {2019},
+}
+
+@Article{sequeda2015a,
+  author   = {Sequeda, J. F. and Gonçalves, M. A. and Aluísio, S. M. and Fortes, R. P.},
+  title    = {RDF4Graph: a scalable middleware for RDF data management and OLAP querying},
+  language = {english},
+  pages    = {11–29},
+  volume   = {34},
+  journal  = {Journal of Web Semantics},
+  year     = {2015},
+}
+
+@InProceedings{sallam2016a,
+  author       = {Sallam, S. A. and Zaki, S. M. and Ramadan, R. A.},
+  booktitle    = {Proceedings of the International Conference on Computer, Control, Informatics and its Applications (IC3INA},
+  title        = {A comparative study of NoSQL databases},
+  language     = {english},
+  organization = {Proceedings of the International Conference on Computer, Control, Informatics and its Applications (IC3INA},
+  pages        = {257–262},
+  publisher    = {IEEE},
+  year         = {2016},
+}
+
+@Article{rolia1998a,
+  author   = {Rolia, J. and Kolettis, N. and Braun, U. and Feldmann, A.},
+  title    = {Performance guarantees in communication-centric systems},
+  language = {english},
+  pages    = {216–247},
+  volume   = {16},
+  journal  = {ACM Transactions on Computer Systems (TOCS)},
+  year     = {1998},
+}
+
+@Article{p2017a,
+  author       = {Pătrașcu, A. and Pârv, B. and Avasalcai, C.},
+  title        = {Scalability Analysis of NoSQL Databases for Big Data},
+  language     = {english},
+  booktitle    = {2017 IEEE/ACM 9th International Workshop on Performance Modeling, Benchmarking and Simulation of High-Performance Computer Systems (PMBS},
+  organization = {2017 IEEE/ACM 9th International Workshop on Performance Modeling, Benchmarking and Simulation of High-Performance Computer Systems (PMBS},
+  publisher    = {IEEE Xplore},
+  year         = {2017},
+}
+
+@InProceedings{papadopoulos2013a,
+  author       = {Papadopoulos, A. V. and Maglaris, V.},
+  booktitle    = {Proceedings of the 2nd ACM symposium on Cloud computing},
+  title        = {Towards big data benchmarks},
+  language     = {english},
+  organization = {Proceedings of the 2nd ACM symposium on Cloud computing},
+  pages        = {13–24},
+  year         = {2013},
+}
+
+@Article{mohapatra2012a,
+  author   = {Mohapatra, P. and Chhetri, M. B. and Panda, S.},
+  title    = {Performance comparison of database access using AWS RDS and traditional web hosting service},
+  language = {english},
+  pages    = {22–29},
+  volume   = {55},
+  journal  = {International Journal of Computer Applications},
+  year     = {2012},
+}
+
+@Article{moens2011a,
+  author   = {Moens, S. and Ponnet, K. and Delaigle, J.},
+  title    = {A flexible online analytical processing architecture for cloud computing},
+  language = {english},
+  pages    = {49–63},
+  volume   = {77},
+  journal  = {Journal of Computer and System Sciences},
+  year     = {2011},
+}
+
+@InProceedings{mishne2005a,
+  author       = {Mishne, G. and Beech, D. and Bouganim, L. and Novikov, E.},
+  booktitle    = {Proceedings of the 31st international conference on Very large databases},
+  title        = {Relational databases for query caches: A case study},
+  language     = {english},
+  organization = {Proceedings of the 31st international conference on Very large databases},
+  pages        = {58–69},
+  year         = {2005},
+}
+
+@Article{lakshman2010a,
+  author   = {Lakshman, A. and Malik, P.},
+  title    = {Cassandra: A Decentralized Structured Storage System},
+  language = {english},
+  pages    = {35–40},
+  volume   = {44},
+  journal  = {ACM SIGOPS Operating Systems Review},
+  year     = {2010},
+}
+
+@Article{kaur2016a,
+  author   = {Kaur, H. and Saini, R.},
+  title    = {Performance Analysis of Memcached and Redis for Real-Time Big Data Processing},
+  language = {english},
+  pages    = {390–395},
+  volume   = {78},
+  journal  = {Procedia Computer Science},
+  year     = {2016},
+}
+
+@Article{kannan2018a,
+  author       = {Kannan, S. and Sivasubramanian, S. and Schaeffer, C.},
+  title        = {Amazon DynamoDB: A Distributed and Highly Available Database},
+  language     = {english},
+  pages        = {19–33},
+  booktitle    = {2018 ACM/IFIP/USENIX Middleware},
+  organization = {2018 ACM/IFIP/USENIX Middleware},
+  year         = {2018},
+}
+
+@InProceedings{joshi2017a,
+  author       = {Joshi, G. and Deshpande, A. and Bhopale, S.},
+  booktitle    = {2017 7th International Conference on Cloud Computing, Data Science & Engineering (Confluence},
+  title        = {NoSQL Databases: A Survey},
+  language     = {english},
+  organization = {2017 7th International Conference on Cloud Computing, Data Science & Engineering (Confluence},
+  pages        = {150–155},
+  publisher    = {IEEE},
+  year         = {2017},
+}
+
+@Article{hwang2018a,
+  author   = {Hwang, W. J. and Li, K. W. and Lee, J. M.},
+  title    = {A Data Stream Management System for Real-Time Monitoring of Maritime Environmental Data},
+  language = {english},
+  pages    = {118},
+  volume   = {6},
+  journal  = {Journal of Marine Science and Engineering},
+  year     = {2018},
+}
+
+@InProceedings{grolinger2013a,
+  author       = {Grolinger, K.},
+  booktitle    = {2013 IEEE 6th International Conference on Cloud Computing},
+  title        = {To Use or Not to Use: Benchmarking NoSQL Data Stores},
+  language     = {english},
+  organization = {2013 IEEE 6th International Conference on Cloud Computing},
+  year         = {2013},
+}
+
+@InProceedings{golab2003a,
+  author       = {Golab, L. and Özsu, M. T.},
+  booktitle    = {Proceedings of the Thirtieth international conference on Very large databases-Volume 30},
+  title        = {Data Stream Management: Processing High-Speed Data Streams},
+  language     = {english},
+  organization = {Proceedings of the Thirtieth international conference on Very large databases},
+  pages        = {937–938},
+  volume       = {30},
+  year         = {2003},
+}
+
+@Book{fowler2013a,
+  author    = {Pramod Sadalage and M. Fowler},
+  date      = {2012},
+  title     = {NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence},
+  language  = {english},
+  publisher = {Pearson},
+  url       = {https://www.semanticscholar.org/paper/a8a30e18162ea195eb0fa9216574f40829076587},
+  year      = {2012},
+}
+
+@InProceedings{fok2013a,
+  author       = {Fok, D.},
+  booktitle    = {2013 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing},
+  title        = {Cloud Databases for Scalable, Elastic, and Highly Available Web Applications},
+  language     = {english},
+  organization = {2013 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing},
+  year         = {2013},
+}
+
+@InProceedings{Fal18,
+  author       = {Faleiro, J. and Renesse, R. Van and Rodrigues, R. and .},
+  title        = {Highly Available Transactions: Virtues and Limitations},
+  organization = {12th USENIX Symposium on Operating Systems Design and Implementation (OSDI'16)},
+  year         = {2018},
+}
+
+@Book{deshpande2017a,
+  author       = {Deshpande, A. and Thaker, V.},
+  title        = {IoT Data Analytics at the Edge},
+  language     = {english},
+  pages        = {3–25},
+  publisher    = {Springer},
+  booktitle    = {Edge Analytics on the Internet of Things In Edge Analytics on the Internet of Things},
+  organization = {Edge Analytics on the Internet of Things},
+  year         = {2017},
+}
+
+@Article{decandia2007a,
+  author   = {DeCandia, G. and Hastorun, D. and Jampani, M. and Kakulapati, G. and Lakshman, A. and Pilchin, A. and Vogels, W.},
+  title    = {Dynamo: Amazon's highly available key-value store},
+  language = {english},
+  pages    = {205–220},
+  volume   = {41},
+  journal  = {ACM SIGOPS Operating Systems Review},
+  year     = {2007},
+}
+
+@InProceedings{cieslewicz2014a,
+  author       = {Cieslewicz, J. and Mittal, A. and Varghese, G.},
+  booktitle    = {Proceedings of the 8th ACM International Conference on Distributed Event-Based Systems},
+  title        = {COPS: A Scalable and Extensible Middleware for Cloud-Oriented Cassandra},
+  language     = {english},
+  organization = {Proceedings of the 8th ACM International Conference on Distributed Event-Based Systems},
+  pages        = {12–23},
+  year         = {2014},
+}
+
+@Article{cheng2018a,
+  author   = {Cheng, L. and Difallah, D. E. and Weissman, J. B. and Gokhale, A.},
+  title    = {Benchmarking cloud-based NoSQL databases},
+  language = {english},
+  pages    = {1271–1285},
+  volume   = {30},
+  journal  = {IEEE Transactions on Knowledge and Data Engineering},
+  year     = {2018},
+}
+
+@TechReport{cattell2010a,
+  author    = {Cattell, R.},
+  title     = {Scalable SQL and NoSQL data stores},
+  language  = {english},
+  pages     = {12–27},
+  journal   = {ACM SIGMOD Record},
+  publisher = {ACM SIGMOD Record},
+  volume    = {39},
+  year      = {2010},
+}
+
+@Article{carlsson2019a,
+  author       = {Carlsson, N. and Jacobsson, C. and Karlsson, L.},
+  title        = {Using Redis for Persistent Storage},
+  language     = {english},
+  pages        = {18–23},
+  booktitle    = {2019 IEEE/ACM 5th International Workshop on Container Technologies and Container Clouds (CT\&CC},
+  organization = {2019 IEEE/ACM 5th International Workshop on Container Technologies and Container Clouds (CT\&CC},
+  year         = {2019},
+}
+
+@InProceedings{unknown2019a,
+  author       = {Brzozowski, M. J. and Lin, M. and Wood, P. T.},
+  title        = {Evaluating SPARQL queries over an RDF dataset},
+  language     = {english},
+  organization = {In 2019 International Conference on Database Theory},
+  pages        = {49--64},
+  publisher    = {Springer},
+  year         = {2009},
+}
+
+@Article{barham2003a,
+  author   = {Barham, P. and Dragovic, B. and Fraser, K. and Hand, S. and Harris, T. and Ho, A. and Pratt, I.},
+  title    = {Xen and the art of virtualization},
+  language = {english},
+  pages    = {164–177},
+  volume   = {37},
+  journal  = {ACM SIGOPS Operating Systems Review},
+  year     = {2003},
+}
+
+@Article{angles2018a,
+  author   = {Angles, R. and Arenas, M. and Barceló, P. and Hogan, A. and Reutter, J. L. and Vrgoc, D.},
+  title    = {Foundations of modern query languages for graph databases},
+  language = {english},
+  pages    = {1–39},
+  volume   = {51},
+  journal  = {ACM Computing Surveys (CSUR},
+  year     = {2018},
+}
+
+@Article{ananthanarayanan2010a,
+  author   = {Ananthanarayanan, R. and Doug, B. and Eshghi, K. and Harizopoulos, S. and Li, X. and MacNair, E. and Zhang, M.},
+  title    = {A comparison of high-level storage systems},
+  language = {english},
+  pages    = {16–21},
+  volume   = {39},
+  journal  = {ACM SIGMOD Record},
+  year     = {2010},
+}
+
+@InProceedings{ahmed2012a,
+  author       = {Ahmed, M. and Hu, J. and Hu, H.},
+  booktitle    = {2012 42nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN},
+  title        = {An empirical study of the reliability of UNIX utilities},
+  language     = {english},
+  organization = {2012 42nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN},
+  pages        = {1–12},
+  publisher    = {IEEE},
+  year         = {2012},
+}
+
+@Article{agrawal2007a,
+  author   = {Agrawal, D. and Das, S. and Abbadi, A. El},
+  title    = {Big data and cloud computing: current state and future opportunities},
+  language = {english},
+  pages    = {28–31},
+  volume   = {2011},
+  journal  = {Ercim News},
+  year     = {2007},
+}
+
+@Article{aba2019a,
+  author   = {Aba, A. and Abel, R. and Davidson, B.},
+  title    = {Evaluating Apache Cassandra: Over a Decade of Evolution},
+  language = {english},
+  pages    = {1–33},
+  volume   = {51},
+  journal  = {ACM Computing Surveys},
+  year     = {2019},
+}
+
+@Misc{unknown2023o,
+  title    = {Security on AWS},
+  language = {english},
+  url      = {https://aws.amazon.com/security/},
+  year     = {2023},
+}
+
+@Misc{Ama,
+  title = {Performance Insights is Generally Available on Amazon Aurora MySQL 5.7},
+  url   = {https://aws.amazon.com/about-aws/whats-new/2019/05/Performance-Insights-GA-Aurora-MySQL-57/},
+}
+
+@Proceedings{Neo19,
+  title     = {Graph Algorithms: Practical Examples in Apache Spark},
+  eventdate = {2019},
+  venue     = {Online},
+  booktitle = {NODES 2019 Online Developer Conference Neo4j},
+  year      = {2019},
+}
+
+@Electronic{unknown2023t,
+  author       = {AWS,},
+  title        = {Choosing an AWS database service},
+  url          = {https://aws.amazon.com/getting-started/decision-guides/databases-on-aws-how-to-choose/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023q,
+  author       = {AWS,},
+  title        = {Choose a data store},
+  url          = {https://aws.amazon.com/getting-started/data-store-options/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024b,
+  author       = {AWS,},
+  title        = {Best Practices for Designing and Architecting with DynamoDB},
+  url          = {https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025o,
+  author       = {AWS,},
+  title        = {AWS Security and Compliance},
+  url          = {https://aws.amazon.com/security/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023w,
+  author       = {AWS,},
+  title        = {AWS On Air Events},
+  url          = {https://aws.amazon.com/events/twitch/aws-on-air-reinvent},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Database Freedom},
+  year         = {2023},
+}
+
+@Electronic{unknown2023i,
+  author       = {AWS,},
+  title        = {AWS Business Requirements},
+  url          = {https://docs.aws.amazon.com/wellarchitected/latest/sap-lens/best-practice-17-3.html},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS},
+  year         = {2023},
+}
+
+@Electronic{unknown2023p,
+  author       = {AWS,},
+  title        = {Availability and durability},
+  url          = {https://aws.amazon.com/about-aws/global-infrastructure/availability/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024l,
+  author       = {AWS,},
+  title        = {Apache Cassandra-Compatible Data API},
+  url          = {https://docs.aws.amazon.com/keyspaces/latest/devguide/cql.html},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Article{unknown2025i,
+  author       = {AWS,},
+  journaltitle = {AWS Documentation},
+  title        = {Amazon Timestream: Serverless},
+  language     = {english},
+  url          = {https://aws.amazon.com/timestream/features/serverless/},
+  year         = {2023},
+}
+
+@Electronic{unknown2025l,
+  author       = {AWS,},
+  title        = {Amazon Timestream: Integration with AWS Services},
+  url          = {https://aws.amazon.com/timestream/features/integration/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025j,
+  author       = {AWS,},
+  title        = {Amazon Timestream: High Resolution},
+  url          = {https://aws.amazon.com/timestream/features/high-resolution/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025k,
+  author       = {AWS,},
+  title        = {Amazon Timestream: Built-In Analytics},
+  url          = {https://aws.amazon.com/timestream/features/built-in-analytics/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023g,
+  author       = {AWS,},
+  title        = {Amazon Timestream},
+  url          = {https://aws.amazon.com/timestream/features/serverless/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation.https://aws.amazon.com/timestream/},
+  year         = {2023},
+}
+
+@Electronic{unknown2025e,
+  author       = {AWS,},
+  title        = {Amazon Redshift: Massively Parallel Processing},
+  url          = {https://aws.amazon.com/redshift/features/mpp/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025f,
+  author       = {AWS,},
+  title        = {Amazon Redshift: Integration with BI Tools},
+  url          = {https://aws.amazon.com/redshift/features/integration-bi-tools/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025d,
+  author       = {AWS,},
+  title        = {Amazon Redshift: Columnar Storage},
+  url          = {https://aws.amazon.com/redshift/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025g,
+  author       = {AWS,},
+  title        = {Amazon Redshift Spectrum},
+  url          = {https://aws.amazon.com/redshift/features/spectrum/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023f,
+  author       = {AWS,},
+  title        = {Amazon Redshift},
+  url          = {https://aws.amazon.com/redshift/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation.https://aws.amazon.com/redshift/},
+  year         = {2023},
+}
+
+@Electronic{unknown2025c,
+  author       = {AWS,},
+  title        = {Amazon RDS: Use Cases},
+  url          = {https://aws.amazon.com/rds/use-cases/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025a,
+  author       = {AWS,},
+  title        = {Amazon RDS: Scalability},
+  url          = {https://aws.amazon.com/rds/features/scalability/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024y,
+  author       = {AWS,},
+  title        = {Amazon RDS: Relational Database Service},
+  url          = {https://aws.amazon.com/rds/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025b,
+  author       = {AWS,},
+  title        = {Amazon RDS: High Availability},
+  url          = {https://aws.amazon.com/rds/features/high-availability/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024z,
+  author       = {AWS,},
+  title        = {Amazon RDS: Automated Backups and Software Patching},
+  url          = {https://aws.amazon.com/rds/features/automated-backups/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023a,
+  author       = {AWS,},
+  title        = {Amazon RDS},
+  url          = {https://aws.amazon.com/rds/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024x,
+  author       = {AWS,},
+  title        = {Amazon Neptune: Use Cases},
+  url          = {https://aws.amazon.com/neptune/use-cases/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024w,
+  author       = {AWS,},
+  title        = {Amazon Neptune: Security},
+  url          = {https://aws.amazon.com/neptune/security/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024v,
+  author       = {AWS,},
+  title        = {Amazon Neptune: Multiple Query Languages},
+  url          = {https://aws.amazon.com/neptune/query/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024u,
+  author       = {AWS,},
+  title        = {Amazon Neptune: High Availability},
+  url          = {https://aws.amazon.com/neptune/high-availability/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024t,
+  author       = {AWS,},
+  title        = {Amazon Neptune: Graph Database},
+  url          = {https://aws.amazon.com/neptune/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023h,
+  author       = {AWS,},
+  title        = {Amazon Neptune},
+  url          = {https://aws.amazon.com/neptune/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation.https://aws.amazon.com/neptune/},
+  year         = {2023},
+}
+
+@Electronic{unknown2024s,
+  author       = {AWS,},
+  title        = {Amazon MemoryDB for Redis: Use Cases},
+  url          = {https://aws.amazon.com/memorydb/use-cases/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024r,
+  author       = {AWS,},
+  title        = {Amazon MemoryDB for Redis: Security},
+  url          = {https://aws.amazon.com/memorydb/security/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024q,
+  author       = {AWS,},
+  title        = {Amazon MemoryDB for Redis: Performance},
+  url          = {https://aws.amazon.com/memorydb/performance/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024o,
+  author       = {AWS,},
+  title        = {Amazon MemoryDB for Redis},
+  url          = {https://aws.amazon.com/memorydb/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024n,
+  author       = {AWS,},
+  title        = {Amazon Keyspaces (for Apache Cassandra) Use Cases},
+  url          = {https://aws.amazon.com/keyspaces/use-cases/.},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024e,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache: In-Memory Caching Service},
+  url          = {https://aws.amazon.com/elasticache/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024i,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache Use Cases},
+  url          = {https://aws.amazon.com/elasticache/use-cases/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024h,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache for Redis: How Amazon ElastiCache Works},
+  url          = {https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/HowElasicacheWorks.html},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024f,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache Documentation},
+  url          = {https://docs.aws.amazon.com/AmazonElastiCache},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024g,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache Auto Discovery},
+  url          = {https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/AutoDiscovery.html},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023e,
+  author       = {AWS,},
+  title        = {Amazon ElastiCache},
+  url          = {https://docs.aws.amazon.com/AmazonElastiCache},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation.https://aws.amazon.com/elasticache/},
+  year         = {2023},
+}
+
+@Electronic{unknown2023z,
+  author       = {AWS,},
+  title        = {Amazon DynamoDB Documentation},
+  url          = {https://docs.aws.amazon.com/amazondynamodb},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2024a,
+  author       = {AWS,},
+  title        = {Amazon DynamoDB Developer Guide},
+  url          = {https://docs.aws.amazon.com/amazondynamodb/latest/developerguide},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2025m,
+  author       = {AWS,},
+  title        = {Amazon DynamoDB},
+  url          = {https://aws.amazon.com/dynamodb/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{training2023a,
+  author       = {AWS,},
+  title        = {Amazon DocumentDB (with MongoDB Compatibility},
+  url          = {https://www.aws.training/Details/Curriculum?id=20685},
+  language     = {english},
+  organization = {- AWS Certified Database Speciality Exam Prep},
+  booktitle    = {- AWS Certified Database Speciality Exam Prep},
+  journaltitle = {AWS Documentation},
+  pages        = {– 01},
+  year         = {2023},
+}
+
+@Electronic{unknown2023v,
+  author       = {AWS,},
+  title        = {Amazon DocumentDB},
+  url          = {https://aws.amazon.com/documentdb/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  year         = {2023},
+}
+
+@Electronic{unknown2023s,
+  author       = {AWS,},
+  title        = {Amazon Aurora Global Database},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation.https://aws.amazon.com/rds/aurora/global-database/},
+  year         = {2023},
+}
+
+@Electronic{unknown2023u,
+  author       = {AWS,},
+  title        = {Amazon Aurora Customer Success Stories},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Customer Success Stories.https://aws.amazon.com/solutions/case-studies/},
+  year         = {2023},
+}
+
+@Electronic{unknown2023b,
+  author       = {AWS,},
+  title        = {Amazon Aurora},
+  url          = {https://aws.amazon.com/rds/aurora/},
+  language     = {english},
+  journaltitle = {AWS Documentation},
+  publisher    = {AWS Documentation},
+  year         = {2023},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

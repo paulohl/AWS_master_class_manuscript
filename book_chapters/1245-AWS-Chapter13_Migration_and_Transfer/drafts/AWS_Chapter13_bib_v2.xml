@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Migration Hub</b:Title>
+        <b:Tag>AWSd</b:Tag>
+        <b:URL>https://aws.amazon.com/migration-hub/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>E-commerce Scalability and Cloud Optimization</b:Title>
+        <b:Tag>Deloitte2023e</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Optimizing Multi-Cloud Strategies Using AWS Migration Tools</b:Title>
+        <b:Tag>Accenture2023</b:Tag>
+        <b:Institution>Accenture</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Accenture</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Improving Cloud TCO with AI-Driven Migration Assessments</b:Title>
+        <b:Tag>Forrester2023c</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Mapping Application Dependencies Before Cloud Migration</b:Title>
+        <b:Tag>HBR2023</b:Tag>
+        <b:Institution>Harvard Business Review</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Harvard Business Review</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>The Role of AWS MGN in Digital Transformation</b:Title>
+        <b:Tag>HBR2023b</b:Tag>
+        <b:Institution>Harvard Business Review,</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Harvard Business Review</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Storage Report: Optimizing Large-Scale Data Transfers</b:Title>
+        <b:Tag>I.D.C.2023a</b:Tag>
+        <b:Institution>I.D.C.</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Regulatory Compliance in Financial Services File Transfers</b:Title>
+        <b:Tag>PwC2023a</b:Tag>
+        <b:Institution>PwC</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>PwC</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Optimizing Enterprise Migration with AWS Migration Hub</b:Title>
+        <b:Tag>Forrester2023f</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>State of Cloud Report: Database and Workload Optimization</b:Title>
+        <b:Tag>Flexera2023</b:Tag>
+        <b:Institution>Flexera</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Flexera</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Documentation</b:Title>
+        <b:Tag>AWSe</b:Tag>
+        <b:URL>https://docs.aws.amazon.com/index.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Report: Optimizing Workload Transitions to Cloud</b:Title>
+        <b:Tag>I.D.C.2023e</b:Tag>
+        <b:Institution>I.D.C.</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Predictive Analytics for AWS Migration Cost Management</b:Title>
+        <b:Tag>McKinsey2023c</b:Tag>
+        <b:Institution>McKinsey</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Report: Avoiding Pitfalls in Application Modernization</b:Title>
+        <b:Tag>Gartner2023</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Automated File Transfer Modernization Trends</b:Title>
+        <b:Tag>Forrester2023d</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Retail Innovation Through Real-Time Data Synchronization</b:Title>
+        <b:Tag>Gartner2023b</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Adoption Trends in Financial Services</b:Title>
+        <b:Tag>Deloitte2023c</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud File Transfer Strategies and Security Best Practices</b:Title>
+        <b:Tag>Gartner2023d</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Reducing Post-Migration Risks with Cloud-Native Strategies</b:Title>
+        <b:Tag>McKinsey2022a</b:Tag>
+        <b:Institution>McKinsey and Co</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Co</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Trends: The Importance of Pre-Migration Assessment</b:Title>
+        <b:Tag>Forrester2023</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Transfer Family</b:Title>
+        <b:Tag>AWSb</b:Tag>
+        <b:URL>https://aws.amazon.com/transfer/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Reducing Mainframe Costs with Cloud Migration</b:Title>
+        <b:Tag>Forrester2023a</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Strategies for Enterprise IT</b:Title>
+        <b:Tag>Gartner2023f</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Reducing IT Overhead with Automated Data Transfers</b:Title>
+        <b:Tag>McKinsey2023a</b:Tag>
+        <b:Institution>McKinsey</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Leveraging Automation to Accelerate Mainframe Migration</b:Title>
+        <b:Tag>McKinsey2023</b:Tag>
+        <b:Institution>McKinsey</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Accelerating Cloud Migration Through AI-Powered Assessments</b:Title>
+        <b:Tag>BCG2023</b:Tag>
+        <b:Institution>Boston Consulting Group</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Boston Consulting Group</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Transfer Family Documentation</b:Title>
+        <b:Tag>AWSc</b:Tag>
+        <b:URL>https://docs.aws.amazon.com/transfer/index.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>AI-Powered Cloud Migration Planning and Cost Optimization</b:Title>
+        <b:Tag>Gartner2023c</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Migration Evaluator</b:Title>
+        <b:Tag>AWS</b:Tag>
+        <b:URL>https://aws.amazon.com/migration-evaluator/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Enhancing Analytics Workflows with AWS DataSync and Redshift</b:Title>
+        <b:Tag>Deloitte2023b</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>electronic</b:BIBTEX_Entry>
+        <b:Comments>Retrieved from</b:Comments>
+        <b:SourceType>ElectronicSource</b:SourceType>
+        <b:Title>AWS Migration Evaluator Documentation</b:Title>
+        <b:Tag>AWSa</b:Tag>
+        <b:URL>https://docs.aws.amazon.com/migration-</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>AWS</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Financial Industry Cloud Adoption: Cost and Compliance Considerations</b:Title>
+        <b:Tag>PwC2023</b:Tag>
+        <b:Institution>PwC</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>PwC</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Accelerating Cloud Migrations with AWS DataSync</b:Title>
+        <b:Tag>Forrester2023b</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Maximizing Cloud Migration Success with AWS DMS</b:Title>
+        <b:Tag>HBR2023a</b:Tag>
+        <b:Institution>Harvard Business Review</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Harvard Business Review</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cost Reduction in File Transfer Workflows with AWS Transfer Family</b:Title>
+        <b:Tag>I.D.C.2023d</b:Tag>
+        <b:Institution>I.D.C</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Improving Security in Cloud-Based File Exchange Systems</b:Title>
+        <b:Tag>McKinsey2023d</b:Tag>
+        <b:Institution>McKinsey</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Department>McKinsey and Company</b:Department>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Zero-Downtime Migration Strategies for Enterprise Workloads</b:Title>
+        <b:Tag>McKinsey2022</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Company</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Strategy and Risk Management</b:Title>
+        <b:Tag>Gartner2023g</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Economics: The Financial Impact of Pre-Migration Planning</b:Title>
+        <b:Tag>Deloitte2023</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Total Economic Impact of AWS Migration Services</b:Title>
+        <b:Tag>Forrester2023e</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Total Economic Impact Report: Quantifying the Business Value of AWS DMS</b:Title>
+        <b:Tag>Forrester2022</b:Tag>
+        <b:Institution>Forrester</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Forrester</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Performance and Scalability of Cloud-Based Database Migration Services</b:Title>
+        <b:Tag>I.D.C.2022</b:Tag>
+        <b:Institution>International Data Corporation</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>The Future of Financial Services in Cloud Computing</b:Title>
+        <b:Tag>Deloitte2022</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Readiness Study: How Enterprises Are Preparing for Migration</b:Title>
+        <b:Tag>I.D.C.2023</b:Tag>
+        <b:Institution>I.D.C.</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Global Retail Cloud Migration Study</b:Title>
+        <b:Tag>I.D.C.2023b</b:Tag>
+        <b:Institution>I.D.C</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Cloud Migration Strategies and Database Modernization Trends</b:Title>
+        <b:Tag>Gartner2023e</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Optimizing Infrastructure for Digital Transformation</b:Title>
+        <b:Tag>McKinseyDigital2022</b:Tag>
+        <b:Institution>McKinsey Digital</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey Digital</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Reducing Downtime Risks in Cloud Migrations</b:Title>
+        <b:Tag>McKinsey2023b</b:Tag>
+        <b:Institution>McKinsey</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>McKinsey</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Enterprise IT Modernization: Challenges and Best Practices</b:Title>
+        <b:Tag>Gartner2023a</b:Tag>
+        <b:Institution>Gartner</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gartner</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Workload Right-Sizing for AWS Migrations: Industry Trends</b:Title>
+        <b:Tag>I.D.C.2023c</b:Tag>
+        <b:Institution>I.D.C.</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>I.D.C.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Optimizing Media Asset Management with AWS Transfer Family</b:Title>
+        <b:Tag>Deloitte2023d</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>techreport</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Financial Services Transformation via AWS Mainframe Modernization</b:Title>
+        <b:Tag>Deloitte2023a</b:Tag>
+        <b:Institution>Deloitte</b:Institution>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deloitte</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>Tech. rep.</b:ThesisType>
+    </b:Source>
+</b:Sources>

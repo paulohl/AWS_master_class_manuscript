@@ -1,0 +1,772 @@
+TY  - CONF
+AU  - Zaslavsky, A.
+AU  - Perera, C.
+AU  - Georgakopoulos, D.
+T1  - Sensor cloud: a cloud of virtualized sensors
+T2  - 2012 19th IEEE International Conference on Web Services
+PB  - IEEE
+Y1  - 2012
+SP  - 407–414
+EP  - 407–414
+ER  -
+TY  - CONF
+AU  - Wohler, D.
+AU  - McCall, D.
+T1  - Measuring Redis Throughput and Latency
+T2  - Proceedings of the Symposium on Cloud Computing
+Y1  - 2015
+SP  - 20–23
+EP  - 20–23
+ER  -
+TY  - BOOK
+AU  - Vogels, Werner
+T1  - AWS Launches Amazon DocumentDB (with MongoDB Compatibility
+PB  - AWS News Blog
+Y1  - 2019
+UR  - https://aws.amazon.com/blogs/aws.
+ER  -
+TY  - JOUR
+AU  - Vogels, W.
+T1  - Eventually consistent
+JO  - ACM Queue
+Y1  - 2009
+VL  - 7
+SP  - 14–18
+EP  - 14–18
+ER  -
+TY  - CONF
+AU  - Tilmann, A.
+AU  - Kotzyba, G.
+T1  - An Evaluation of Distributed In-Memory Databases
+T2  - Proceedings of the 16th International Middleware Conference
+Y1  - 2015
+SP  - 46–57
+EP  - 46–57
+ER  -
+TY  - CONF
+AU  - Tekli, J.
+AU  - Mansour, E.
+T1  - Performance Analysis of NoSQL Databases
+T2  - 2015 IEEE/ACM 7th International Workshop on Big Data Technologies and Applications (BIDATA
+PB  - IEEE Xplore
+Y1  - 2015
+UR  - https://ieeexplore.ieee.org/document/7343744
+ER  -
+TY  - JOUR
+AU  - Strauch, C.
+AU  - Paradies, M.
+T1  - A survey of distributed database management systems
+JO  - ACM Computing Surveys (CSUR
+Y1  - 2019
+VL  - 52
+SP  - 1–33
+EP  - 1–33
+ER  -
+TY  - JOUR
+AU  - Stonebraker, M.
+T1  - SQL databases v
+JO  - NoSQL databases. Communications of the ACM
+Y1  - 2010
+VL  - 53
+SP  - 10–11
+EP  - 10–11
+ER  -
+TY  - JOUR
+AU  - Sivasubramanian, S.
+T1  - Amazon DynamoDB: a seamlessly scalable non-relational database service
+JO  - Communications of the ACM
+Y1  - 2019
+VL  - 62
+SP  - 64–71
+EP  - 64–71
+ER  -
+TY  - JOUR
+AU  - Sequeda, J. F.
+AU  - Gonçalves, M. A.
+AU  - Aluísio, S. M.
+AU  - Fortes, R. P.
+T1  - RDF4Graph: a scalable middleware for RDF data management and OLAP querying
+JO  - Journal of Web Semantics
+Y1  - 2015
+VL  - 34
+SP  - 11–29
+EP  - 11–29
+ER  -
+TY  - CONF
+AU  - Sallam, S. A.
+AU  - Zaki, S. M.
+AU  - Ramadan, R. A.
+T1  - A comparative study of NoSQL databases
+T2  - Proceedings of the International Conference on Computer, Control, Informatics and its Applications (IC3INA
+PB  - IEEE
+Y1  - 2016
+SP  - 257–262
+EP  - 257–262
+ER  -
+TY  - JOUR
+AU  - Rolia, J.
+AU  - Kolettis, N.
+AU  - Braun, U.
+AU  - Feldmann, A.
+T1  - Performance guarantees in communication-centric systems
+JO  - ACM Transactions on Computer Systems (TOCS)
+Y1  - 1998
+VL  - 16
+SP  - 216–247
+EP  - 216–247
+ER  -
+TY  - JOUR
+AU  - Pătrașcu, A.
+AU  - Pârv, B.
+AU  - Avasalcai, C.
+T1  - Scalability Analysis of NoSQL Databases for Big Data
+Y1  - 2017
+ER  -
+TY  - CONF
+AU  - Papadopoulos, A. V.
+AU  - Maglaris, V.
+T1  - Towards big data benchmarks
+T2  - Proceedings of the 2nd ACM symposium on Cloud computing
+Y1  - 2013
+SP  - 13–24
+EP  - 13–24
+ER  -
+TY  - JOUR
+AU  - Mohapatra, P.
+AU  - Chhetri, M. B.
+AU  - Panda, S.
+T1  - Performance comparison of database access using AWS RDS and traditional web hosting service
+JO  - International Journal of Computer Applications
+Y1  - 2012
+VL  - 55
+SP  - 22–29
+EP  - 22–29
+ER  -
+TY  - JOUR
+AU  - Moens, S.
+AU  - Ponnet, K.
+AU  - Delaigle, J.
+T1  - A flexible online analytical processing architecture for cloud computing
+JO  - Journal of Computer and System Sciences
+Y1  - 2011
+VL  - 77
+SP  - 49–63
+EP  - 49–63
+ER  -
+TY  - CONF
+AU  - Mishne, G.
+AU  - Beech, D.
+AU  - Bouganim, L.
+AU  - Novikov, E.
+T1  - Relational databases for query caches: A case study
+T2  - Proceedings of the 31st international conference on Very large databases
+Y1  - 2005
+SP  - 58–69
+EP  - 58–69
+ER  -
+TY  - JOUR
+AU  - Lakshman, A.
+AU  - Malik, P.
+T1  - Cassandra: A Decentralized Structured Storage System
+JO  - ACM SIGOPS Operating Systems Review
+Y1  - 2010
+VL  - 44
+SP  - 35–40
+EP  - 35–40
+ER  -
+TY  - JOUR
+AU  - Kaur, H.
+AU  - Saini, R.
+T1  - Performance Analysis of Memcached and Redis for Real-Time Big Data Processing
+JO  - Procedia Computer Science
+Y1  - 2016
+VL  - 78
+SP  - 390–395
+EP  - 390–395
+ER  -
+TY  - JOUR
+AU  - Kannan, S.
+AU  - Sivasubramanian, S.
+AU  - Schaeffer, C.
+T1  - Amazon DynamoDB: A Distributed and Highly Available Database
+Y1  - 2018
+SP  - 19–33
+EP  - 19–33
+ER  -
+TY  - CONF
+AU  - Joshi, G.
+AU  - Deshpande, A.
+AU  - Bhopale, S.
+T1  - NoSQL Databases: A Survey
+T2  - 2017 7th International Conference on Cloud Computing, Data Science & Engineering (Confluence
+PB  - IEEE
+Y1  - 2017
+SP  - 150–155
+EP  - 150–155
+ER  -
+TY  - JOUR
+AU  - Hwang, W. J.
+AU  - Li, K. W.
+AU  - Lee, J. M.
+T1  - A Data Stream Management System for Real-Time Monitoring of Maritime Environmental Data
+JO  - Journal of Marine Science and Engineering
+Y1  - 2018
+VL  - 6
+SP  - 118
+EP  - 118
+ER  -
+TY  - CONF
+AU  - Grolinger, K.
+T1  - To Use or Not to Use: Benchmarking NoSQL Data Stores
+T2  - 2013 IEEE 6th International Conference on Cloud Computing
+Y1  - 2013
+ER  -
+TY  - CONF
+AU  - Golab, L.
+AU  - Özsu, M. T.
+T1  - Data Stream Management: Processing High-Speed Data Streams
+T2  - Proceedings of the Thirtieth international conference on Very large databases-Volume 30
+Y1  - 2003
+VL  - 30
+SP  - 937–938
+EP  - 937–938
+ER  -
+TY  - BOOK
+AU  - Sadalage, Pramod
+AU  - Fowler, M.
+T1  - NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence
+PB  - Pearson
+Y1  - 2012
+UR  - https://www.semanticscholar.org/paper/a8a30e18162ea195eb0fa9216574f40829076587
+ER  -
+TY  - CONF
+AU  - Fok, D.
+T1  - Cloud Databases for Scalable, Elastic, and Highly Available Web Applications
+T2  - 2013 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing
+Y1  - 2013
+ER  -
+TY  - CONF
+AU  - Faleiro, J.
+AU  - Renesse, R. Van
+AU  - Rodrigues, R.
+AU  - .
+T1  - Highly Available Transactions: Virtues and Limitations
+Y1  - 2018
+ER  -
+TY  - BOOK
+AU  - Deshpande, A.
+AU  - Thaker, V.
+T1  - IoT Data Analytics at the Edge
+PB  - Springer
+Y1  - 2017
+SP  - 3–25
+EP  - 3–25
+ER  -
+TY  - JOUR
+AU  - DeCandia, G.
+AU  - Hastorun, D.
+AU  - Jampani, M.
+AU  - Kakulapati, G.
+AU  - Lakshman, A.
+AU  - Pilchin, A.
+AU  - Vogels, W.
+T1  - Dynamo: Amazon's highly available key-value store
+JO  - ACM SIGOPS Operating Systems Review
+Y1  - 2007
+VL  - 41
+SP  - 205–220
+EP  - 205–220
+ER  -
+TY  - CONF
+AU  - Cieslewicz, J.
+AU  - Mittal, A.
+AU  - Varghese, G.
+T1  - COPS: A Scalable and Extensible Middleware for Cloud-Oriented Cassandra
+T2  - Proceedings of the 8th ACM International Conference on Distributed Event-Based Systems
+Y1  - 2014
+SP  - 12–23
+EP  - 12–23
+ER  -
+TY  - JOUR
+AU  - Cheng, L.
+AU  - Difallah, D. E.
+AU  - Weissman, J. B.
+AU  - Gokhale, A.
+T1  - Benchmarking cloud-based NoSQL databases
+JO  - IEEE Transactions on Knowledge and Data Engineering
+Y1  - 2018
+VL  - 30
+SP  - 1271–1285
+EP  - 1271–1285
+ER  -
+TY  - RPRT
+AU  - Cattell, R.
+T1  - Scalable SQL and NoSQL data stores
+JO  - ACM SIGMOD Record
+Y1  - 2010
+VL  - 39
+SP  - 12–27
+EP  - 12–27
+ER  -
+TY  - JOUR
+AU  - Carlsson, N.
+AU  - Jacobsson, C.
+AU  - Karlsson, L.
+T1  - Using Redis for Persistent Storage
+Y1  - 2019
+SP  - 18–23
+EP  - 18–23
+ER  -
+TY  - CONF
+AU  - Brzozowski, M. J.
+AU  - Lin, M.
+AU  - Wood, P. T.
+T1  - Evaluating SPARQL queries over an RDF dataset
+PB  - Springer
+Y1  - 2009
+SP  - 49–64
+EP  - 49–64
+ER  -
+TY  - JOUR
+AU  - Barham, P.
+AU  - Dragovic, B.
+AU  - Fraser, K.
+AU  - Hand, S.
+AU  - Harris, T.
+AU  - Ho, A.
+AU  - Pratt, I.
+T1  - Xen and the art of virtualization
+JO  - ACM SIGOPS Operating Systems Review
+Y1  - 2003
+VL  - 37
+SP  - 164–177
+EP  - 164–177
+ER  -
+TY  - JOUR
+AU  - Angles, R.
+AU  - Arenas, M.
+AU  - Barceló, P.
+AU  - Hogan, A.
+AU  - Reutter, J. L.
+AU  - Vrgoc, D.
+T1  - Foundations of modern query languages for graph databases
+JO  - ACM Computing Surveys (CSUR
+Y1  - 2018
+VL  - 51
+SP  - 1–39
+EP  - 1–39
+ER  -
+TY  - JOUR
+AU  - Ananthanarayanan, R.
+AU  - Doug, B.
+AU  - Eshghi, K.
+AU  - Harizopoulos, S.
+AU  - Li, X.
+AU  - MacNair, E.
+AU  - Zhang, M.
+T1  - A comparison of high-level storage systems
+JO  - ACM SIGMOD Record
+Y1  - 2010
+VL  - 39
+SP  - 16–21
+EP  - 16–21
+ER  -
+TY  - CONF
+AU  - Ahmed, M.
+AU  - Hu, J.
+AU  - Hu, H.
+T1  - An empirical study of the reliability of UNIX utilities
+T2  - 2012 42nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN
+PB  - IEEE
+Y1  - 2012
+SP  - 1–12
+EP  - 1–12
+ER  -
+TY  - JOUR
+AU  - Agrawal, D.
+AU  - Das, S.
+AU  - Abbadi, A. El
+T1  - Big data and cloud computing: current state and future opportunities
+JO  - Ercim News
+Y1  - 2007
+VL  - 2011
+SP  - 28–31
+EP  - 28–31
+ER  -
+TY  - JOUR
+AU  - Aba, A.
+AU  - Abel, R.
+AU  - Davidson, B.
+T1  - Evaluating Apache Cassandra: Over a Decade of Evolution
+JO  - ACM Computing Surveys
+Y1  - 2019
+VL  - 51
+SP  - 1–33
+EP  - 1–33
+ER  -
+TY  - GEN
+T1  - Security on AWS
+Y1  - 2023
+UR  - https://aws.amazon.com/security/
+ER  -
+TY  - GEN
+T1  - Performance Insights is Generally Available on Amazon Aurora MySQL 5.7
+UR  - https://aws.amazon.com/about-aws/whats-new/2019/05/Performance-Insights-GA-Aurora-MySQL-57/
+ER  -
+TY  - GEN
+T1  - Graph Algorithms: Practical Examples in Apache Spark
+Y1  - 2019
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Choosing an AWS database service
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/getting-started/decision-guides/databases-on-aws-how-to-choose/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Choose a data store
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/getting-started/data-store-options/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Best Practices for Designing and Architecting with DynamoDB
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Security and Compliance
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/security/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS On Air Events
+JO  - AWS Documentation
+PB  - AWS Database Freedom
+Y1  - 2023
+UR  - https://aws.amazon.com/events/twitch/aws-on-air-reinvent
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - AWS Business Requirements
+JO  - AWS Documentation
+PB  - AWS
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/wellarchitected/latest/sap-lens/best-practice-17-3.html
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Availability and durability
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/about-aws/global-infrastructure/availability/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Apache Cassandra-Compatible Data API
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/keyspaces/latest/devguide/cql.html
+ER  -
+TY  - JOUR
+AU  - AWS
+T1  - Amazon Timestream: Serverless
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/timestream/features/serverless/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Timestream: Integration with AWS Services
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/timestream/features/integration/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Timestream: High Resolution
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/timestream/features/high-resolution/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Timestream: Built-In Analytics
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/timestream/features/built-in-analytics/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Timestream
+JO  - AWS Documentation
+PB  - AWS Documentation.https://aws.amazon.com/timestream/
+Y1  - 2023
+UR  - https://aws.amazon.com/timestream/features/serverless/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Redshift: Massively Parallel Processing
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/redshift/features/mpp/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Redshift: Integration with BI Tools
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/redshift/features/integration-bi-tools/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Redshift: Columnar Storage
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/redshift/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Redshift Spectrum
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/redshift/features/spectrum/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Redshift
+JO  - AWS Documentation
+PB  - AWS Documentation.https://aws.amazon.com/redshift/
+Y1  - 2023
+UR  - https://aws.amazon.com/redshift/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS: Use Cases
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS: Scalability
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/features/scalability/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS: Relational Database Service
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS: High Availability
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/features/high-availability/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS: Automated Backups and Software Patching
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/features/automated-backups/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon RDS
+JO  - AWS Documentation
+PB  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune: Use Cases
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/use-cases/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune: Security
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/security/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune: Multiple Query Languages
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/query/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune: High Availability
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/high-availability/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune: Graph Database
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Neptune
+JO  - AWS Documentation
+PB  - AWS Documentation.https://aws.amazon.com/neptune/
+Y1  - 2023
+UR  - https://aws.amazon.com/neptune/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon MemoryDB for Redis: Use Cases
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/memorydb/use-cases/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon MemoryDB for Redis: Security
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/memorydb/security/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon MemoryDB for Redis: Performance
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/memorydb/performance/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon MemoryDB for Redis
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/memorydb/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Keyspaces (for Apache Cassandra) Use Cases
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/keyspaces/use-cases/.
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache: In-Memory Caching Service
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/elasticache/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache Use Cases
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/elasticache/use-cases/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache for Redis: How Amazon ElastiCache Works
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/HowElasicacheWorks.html
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache Documentation
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/AmazonElastiCache
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache Auto Discovery
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/AutoDiscovery.html
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon ElastiCache
+JO  - AWS Documentation
+PB  - AWS Documentation.https://aws.amazon.com/elasticache/
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/AmazonElastiCache
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon DynamoDB Documentation
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/amazondynamodb
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon DynamoDB Developer Guide
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon DynamoDB
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/dynamodb/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon DocumentDB (with MongoDB Compatibility
+JO  - AWS Documentation
+Y1  - 2023
+SP  - –
+EP  - – 01
+UR  - https://www.aws.training/Details/Curriculum?id=20685
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon DocumentDB
+JO  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/documentdb/
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Aurora Global Database
+JO  - AWS Documentation
+PB  - AWS Documentation.https://aws.amazon.com/rds/aurora/global-database/
+Y1  - 2023
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Aurora Customer Success Stories
+JO  - AWS Documentation
+PB  - AWS Customer Success Stories.https://aws.amazon.com/solutions/case-studies/
+Y1  - 2023
+ER  -
+TY  - GEN
+AU  - AWS
+T1  - Amazon Aurora
+JO  - AWS Documentation
+PB  - AWS Documentation
+Y1  - 2023
+UR  - https://aws.amazon.com/rds/aurora/
+ER  -
