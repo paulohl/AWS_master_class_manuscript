@@ -17,7 +17,7 @@
 <br>
 
 
-__PRe-print v2 - November 14, 2025__      
+__Pre-print v2 - November 14, 2025__      
 This repo stores a preprint version of the book and has not been peer reviewed. Data may be preliminary.      
 
 
