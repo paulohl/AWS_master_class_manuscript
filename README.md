@@ -1,6 +1,6 @@
 # Mastering AWS Cloud
 
-<img src="\book_contract/2145(full).jpg" width="500" height="500">
+<img src="\book_contract/2145(Linkedin).png" width="">
 
 
 <br>
